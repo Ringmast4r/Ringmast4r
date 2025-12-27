@@ -175,13 +175,15 @@ ringmast4r@github:~$ cat profile.txt
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════╗
-║                                                                  ║
-║   "In a world of 1s and 0s, be the one who maps them all."      ║
-║                                                                  ║
-║                    - RINGMAST4R                                  ║
-║                                                                  ║
-╚══════════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "While others see empty streets, I see millions of signals waiting        ║
+║    to be discovered. Every BSSID has a location. Every location,            ║
+║    a story. I don't just drive — I wardrive."                               ║
+║                                                                              ║
+║                                              - RINGMAST4R                    ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Ringmast4r&labelColor=%23000000&countColor=%23CC0000&style=for-the-badge)](https://visitorbadge.io/status?path=Ringmast4r)
