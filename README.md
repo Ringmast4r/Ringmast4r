@@ -71,6 +71,7 @@ ringmast4r@github:~$ cat profile.txt
 ![GPSD](https://img.shields.io/badge/GPSD-00979D?style=for-the-badge&logo=satellite&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
 ![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-A80030?style=for-the-badge&logo=wifi&logoColor=white)
+![Wifite](https://img.shields.io/badge/Wifite-CC0000?style=for-the-badge&logo=wifi&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### SPECIALIZATIONS
