@@ -110,14 +110,14 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ringmast4r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ringmast4r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ringmast4r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&include_all_commits=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF&langs_count=8"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ringmast4r&theme=black-ice&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CC0000&dates=888888"/>
+  <img src="https://streak-stats.demolab.com/?user=ringmast4r&theme=black-ice&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CC0000&dates=888888"/>
 
 </div>
 
@@ -127,7 +127,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=Ringmast4r&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=ringmast4r&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
 
 </div>
 
@@ -137,7 +137,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Ringmast4r&bg_color=0D1117&color=CC0000&line=CC0000&point=FFFFFF&area=true&area_color=CC0000&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringmast4r&bg_color=0D1117&color=CC0000&line=CC0000&point=FFFFFF&area=true&area_color=CC0000&hide_border=true&custom_title=Contribution%20Graph"/>
 
 </div>
 
