@@ -90,10 +90,19 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-<a href="https://github.com/ringmast4r">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ringmast4r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF"/>
-</a>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ringmast4r&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ringmast4r&theme=radical" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ringmast4r&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ringmast4r&theme=radical" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ringmast4r&theme=radical" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ringmast4r&theme=radical" />
+</picture>
 
 </div>
 
