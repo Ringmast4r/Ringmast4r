@@ -110,14 +110,20 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ringmast4r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&include_all_commits=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF&langs_count=8"/>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ringmast4r&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&include_all_commits=true"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF&langs_count=8"/>
+  </a>
 
 </div>
 
 <div align="center">
 
-  <img src="https://streak-stats.demolab.com/?user=ringmast4r&theme=black-ice&hide_border=true&background=0D1117&stroke=CC0000&ring=CC0000&fire=FF0000&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=CC0000&dates=888888"/>
+  <a href="https://git.io/streak-stats">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ringmast4r&theme=highcontrast&hide_border=true&background=0D1117&ring=CC0000&fire=FF0000&currStreakLabel=FFFFFF" alt="streak"/>
+  </a>
 
 </div>
 
@@ -127,7 +133,9 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-  <img src="https://github-profile-trophy.vercel.app/?username=ringmast4r&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15"/>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=ringmast4r&theme=onestar&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophy"/>
+  </a>
 
 </div>
 
