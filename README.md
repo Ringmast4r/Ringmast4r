@@ -67,10 +67,8 @@ ringmast4r@github:~$ cat profile.txt
 
 ### TOOLS & PLATFORMS
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
-![Burp Suite](https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
-![Metasploit](https://img.shields.io/badge/Metasploit-2596CD?style=for-the-badge&logo=metasploit&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-4682B4?style=for-the-badge&logo=nmap&logoColor=white)
+![Kismet](https://img.shields.io/badge/Kismet-000000?style=for-the-badge&logo=wifi&logoColor=white)
+![GPSD](https://img.shields.io/badge/GPSD-00979D?style=for-the-badge&logo=satellite&logoColor=white)
 
 ### SPECIALIZATIONS
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=searchengin&logoColor=white)
