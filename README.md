@@ -54,26 +54,6 @@ ringmast4r@github:~$ cat profile.txt
 
 ---
 
-## `> cat arsenal/`
-
-<div align="center">
-
-### FLAGSHIP PROJECTS
-
-| Tool | Description | Stars |
-|:----:|:------------|:-----:|
-| [**DEATH_STAR**](https://github.com/Ringmast4r/DEATH_STAR) | Real-time cyberattack visualization on 3D ASCII globe | ![Stars](https://img.shields.io/github/stars/Ringmast4r/DEATH_STAR?style=flat-square&color=CC0000) |
-| [**FLOCK**](https://github.com/Ringmast4r/FLOCK) | Surveillance camera network map - 336K+ cameras worldwide | ![Stars](https://img.shields.io/github/stars/Ringmast4r/FLOCK?style=flat-square&color=CC0000) |
-| [**ATLAS**](https://github.com/Ringmast4r/Data-Center-Map---Global) | Global data center mapping - 6,266+ locations in 155 countries | ![Stars](https://img.shields.io/github/stars/Ringmast4r/Data-Center-Map---Global?style=flat-square&color=CC0000) |
-| [**FED**](https://github.com/Ringmast4r/FED) | Federal infrastructure intelligence | ![Stars](https://img.shields.io/github/stars/Ringmast4r/FED?style=flat-square&color=CC0000) |
-| [**GNSS**](https://github.com/Ringmast4r/GNSS) | Real-time GPS satellite tracker & visualization | ![Stars](https://img.shields.io/github/stars/Ringmast4r/GNSS?style=flat-square&color=CC0000) |
-| [**PathFinder**](https://github.com/Ringmast4r/PathFinder) | Advanced path traversal & directory enumeration | ![Stars](https://img.shields.io/github/stars/Ringmast4r/PathFinder?style=flat-square&color=CC0000) |
-| [**MAC-SPOOFER**](https://github.com/Ringmast4r/MAC-SPOOFER) | Cross-platform MAC spoofing with 45+ vendor presets | ![Stars](https://img.shields.io/github/stars/Ringmast4r/MAC-SPOOFER?style=flat-square&color=CC0000) |
-| [**OUI-Master-Database**](https://github.com/Ringmast4r/OUI-Master-Database) | 85,905+ MAC vendor database from IEEE/Nmap/Wireshark | ![Stars](https://img.shields.io/github/stars/Ringmast4r/OUI-Master-Database?style=flat-square&color=CC0000) |
-
-</div>
-
----
 
 ## `> neofetch --skills`
 
@@ -155,7 +135,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### Most Starred
+### All 32 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -175,29 +155,22 @@ ringmast4r@github:~$ cat profile.txt
 | [**wardriving-converter**](https://github.com/Ringmast4r/wardriving-converter) | Universal wardriving file converter - 12+ formats | ![](https://img.shields.io/github/stars/Ringmast4r/wardriving-converter?style=flat-square&color=CC0000&label=★) |
 | [**FORKED-SecKC-MHN-Globe**](https://github.com/Ringmast4r/FORKED-SecKC-MHN-Globe) | Terminal UI cyberattack visualization | ![](https://img.shields.io/github/stars/Ringmast4r/FORKED-SecKC-MHN-Globe?style=flat-square&color=CC0000&label=★) |
 | [**PROJECT-159**](https://github.com/Ringmast4r/PROJECT-159) | Biblical encyclopedia - 159 books cross-reference | ![](https://img.shields.io/github/stars/Ringmast4r/PROJECT-159?style=flat-square&color=CC0000&label=★) |
+| [**Router-Rader**](https://github.com/Ringmast4r/Router-Rader) | Router detection and analysis tool | ![](https://img.shields.io/github/stars/Ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=★) |
+| [**The-Holy-Bible**](https://github.com/Ringmast4r/The-Holy-Bible) | Digital Bible application | ![](https://img.shields.io/github/stars/Ringmast4r/The-Holy-Bible?style=flat-square&color=CC0000&label=★) |
+| [**FLOCK-CSV-EXAMINER**](https://github.com/Ringmast4r/FLOCK-CSV-EXAMINER) | FLOCK surveillance data analyzer | ![](https://img.shields.io/github/stars/Ringmast4r/FLOCK-CSV-EXAMINER?style=flat-square&color=CC0000&label=★) |
+| [**APTs**](https://github.com/Ringmast4r/APTs) | Advanced Persistent Threats database | ![](https://img.shields.io/github/stars/Ringmast4r/APTs?style=flat-square&color=CC0000&label=★) |
+| [**csv-merger**](https://github.com/Ringmast4r/csv-merger) | Merge multiple CSV files into one | ![](https://img.shields.io/github/stars/Ringmast4r/csv-merger?style=flat-square&color=CC0000&label=★) |
+| [**Library-of-Congress-Power-Search**](https://github.com/Ringmast4r/Library-of-Congress-Power-Search) | Library of Congress search tool | ![](https://img.shields.io/github/stars/Ringmast4r/Library-of-Congress-Power-Search?style=flat-square&color=CC0000&label=★) |
+| [**neofetch**](https://github.com/Ringmast4r/neofetch) | Command-line system info tool | ![](https://img.shields.io/github/stars/Ringmast4r/neofetch?style=flat-square&color=CC0000&label=★) |
+| [**viewer-website**](https://github.com/Ringmast4r/viewer-website) | Professional artist website for VIEWER | ![](https://img.shields.io/github/stars/Ringmast4r/viewer-website?style=flat-square&color=CC0000&label=★) |
+| [**Consider-The-Consequences-Game**](https://github.com/Ringmast4r/Consider-The-Consequences-Game) | Interactive fiction adaptation | ![](https://img.shields.io/github/stars/Ringmast4r/Consider-The-Consequences-Game?style=flat-square&color=CC0000&label=★) |
+| [**CTC-Game-LIVE-DEMO**](https://github.com/Ringmast4r/CTC-Game-LIVE-DEMO) | Web-based Consider the Consequences demo | ![](https://img.shields.io/github/stars/Ringmast4r/CTC-Game-LIVE-DEMO?style=flat-square&color=CC0000&label=★) |
+| [**Follow-The-White-Rabbit-Game-python**](https://github.com/Ringmast4r/Follow-The-White-Rabbit-Game-python) | Matrix-themed narrative adventure (Python) | ![](https://img.shields.io/github/stars/Ringmast4r/Follow-The-White-Rabbit-Game-python?style=flat-square&color=CC0000&label=★) |
+| [**Follow-The-White-Rabbit-Game-JavaScript**](https://github.com/Ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) | Matrix-themed narrative adventure (JS) | ![](https://img.shields.io/github/stars/Ringmast4r/Follow-The-White-Rabbit-Game-JavaScript?style=flat-square&color=CC0000&label=★) |
+| [**Ringmast4rs-Retro-Rom-Revival**](https://github.com/Ringmast4r/Ringmast4rs-Retro-Rom-Revival) | Retro ROM collection | ![](https://img.shields.io/github/stars/Ringmast4r/Ringmast4rs-Retro-Rom-Revival?style=flat-square&color=CC0000&label=★) |
+| [**Ringmast4r**](https://github.com/Ringmast4r/Ringmast4r) | GitHub Profile README | ![](https://img.shields.io/github/stars/Ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=★) |
 
 </div>
-
-<details>
-<summary><b>📂 View All 32 Repositories</b></summary>
-
-| Repository | Language |
-|:-----------|:--------:|
-| [Router-Rader](https://github.com/Ringmast4r/Router-Rader) | Python |
-| [The-Holy-Bible](https://github.com/Ringmast4r/The-Holy-Bible) | JavaScript |
-| [FLOCK-CSV-EXAMINER](https://github.com/Ringmast4r/FLOCK-CSV-EXAMINER) | Python |
-| [APTs](https://github.com/Ringmast4r/APTs) | - |
-| [viewer-website](https://github.com/Ringmast4r/viewer-website) | HTML |
-| [csv-merger](https://github.com/Ringmast4r/csv-merger) | Python |
-| [Library-of-Congress-Power-Search](https://github.com/Ringmast4r/Library-of-Congress-Power-Search) | JavaScript |
-| [neofetch](https://github.com/Ringmast4r/neofetch) | Shell |
-| [Consider-The-Consequences-Game](https://github.com/Ringmast4r/Consider-The-Consequences-Game) | Python |
-| [CTC-Game-LIVE-DEMO](https://github.com/Ringmast4r/CTC-Game-LIVE-DEMO) | JavaScript |
-| [Follow-The-White-Rabbit-Game-python](https://github.com/Ringmast4r/Follow-The-White-Rabbit-Game-python) | Python |
-| [Follow-The-White-Rabbit-Game-JavaScript](https://github.com/Ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) | HTML |
-| [Ringmast4rs-Retro-Rom-Revival](https://github.com/Ringmast4r/Ringmast4rs-Retro-Rom-Revival) | HTML |
-
-</details>
 
 ---
 
