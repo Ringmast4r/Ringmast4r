@@ -69,6 +69,9 @@ ringmast4r@github:~$ cat profile.txt
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
 ![Kismet](https://img.shields.io/badge/Kismet-000000?style=for-the-badge&logo=wifi&logoColor=white)
 ![GPSD](https://img.shields.io/badge/GPSD-00979D?style=for-the-badge&logo=satellite&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Aircrack--ng](https://img.shields.io/badge/Aircrack--ng-A80030?style=for-the-badge&logo=wifi&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
 ### SPECIALIZATIONS
 ![OSINT](https://img.shields.io/badge/OSINT-000000?style=for-the-badge&logo=searchengin&logoColor=white)
@@ -86,42 +89,9 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ringmast4r&show_icons=true&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&include_all_commits=true"/>
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=highcontrast&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF&langs_count=8"/>
-  </a>
+![Ringmast4r's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ringmast4r&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF)
 
-</div>
-
-<div align="center">
-
-  <a href="https://git.io/streak-stats">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=ringmast4r&theme=highcontrast&hide_border=true&background=0D1117&ring=CC0000&fire=FF0000&currStreakLabel=FFFFFF" alt="streak"/>
-  </a>
-
-</div>
-
----
-
-## `> trophy cabinet`
-
-<div align="center">
-
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=ringmast4r&theme=onestar&no-frame=true&no-bg=true&column=4&rank=SECRET,SSS,SS,S,AAA,AA,A" alt="trophy"/>
-  </a>
-
-</div>
-
----
-
-## `> contribution_graph`
-
-<div align="center">
-
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ringmast4r&bg_color=0D1117&color=CC0000&line=CC0000&point=FFFFFF&area=true&area_color=CC0000&hide_border=true&custom_title=Contribution%20Graph"/>
+![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF)
 
 </div>
 
