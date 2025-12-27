@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 33 Public Repositories
+### All 32 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -130,8 +130,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**WiGLE-Vault**](https://github.com/Ringmast4r/WiGLE-Vault) | Download all your WiGLE data in one command | ![](https://img.shields.io/github/stars/Ringmast4r/WiGLE-Vault?style=flat-square&color=CC0000&label=★) |
 | [**DEAD-MANS-TRIGGER**](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER) | Automated safety switch - encrypted messages | ![](https://img.shields.io/github/stars/Ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=CC0000&label=★) |
 | [**wardriving-converter**](https://github.com/Ringmast4r/wardriving-converter) | Universal wardriving file converter - 12+ formats | ![](https://img.shields.io/github/stars/Ringmast4r/wardriving-converter?style=flat-square&color=CC0000&label=★) |
-| [**FORKED-SecKC-MHN-Globe**](https://github.com/Ringmast4r/FORKED-SecKC-MHN-Globe) | Terminal UI cyberattack visualization | ![](https://img.shields.io/github/stars/Ringmast4r/FORKED-SecKC-MHN-Globe?style=flat-square&color=CC0000&label=★) |
-| [**FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT**](https://github.com/Ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT) | Experimental upgrade of MHN Globe visualization | ![](https://img.shields.io/github/stars/Ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT?style=flat-square&color=CC0000&label=★) |
+| [**FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT**](https://github.com/Ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT) | Terminal UI cyberattack visualization | ![](https://img.shields.io/github/stars/Ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT?style=flat-square&color=CC0000&label=★) |
 | [**PROJECT-159**](https://github.com/Ringmast4r/PROJECT-159) | Biblical encyclopedia - 159 books cross-reference | ![](https://img.shields.io/github/stars/Ringmast4r/PROJECT-159?style=flat-square&color=CC0000&label=★) |
 | [**Router-Rader**](https://github.com/Ringmast4r/Router-Rader) | Router detection and analysis tool | ![](https://img.shields.io/github/stars/Ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=★) |
 | [**The-Holy-Bible**](https://github.com/Ringmast4r/The-Holy-Bible) | Digital Bible application | ![](https://img.shields.io/github/stars/Ringmast4r/The-Holy-Bible?style=flat-square&color=CC0000&label=★) |
