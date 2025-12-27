@@ -2,16 +2,14 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=100&lines=%E2%96%88%E2%96%88%E2%96%88+WELCOME+TO+THE+CIRCUS+%E2%96%88%E2%96%88%E2%96%88;Cybersecurity+Researcher+%7C+Licensed+PI+%7C+OSINT+Specialist;%22Information+wants+to+be+free.%22)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=800&height=120&lines=%E2%96%88%E2%96%88%E2%96%88+WELCOME+TO+THE+CIRCUS+%E2%96%88%E2%96%88%E2%96%88;Cybersecurity+Researcher+%7C+Licensed+PI+%7C+OSINT+Specialist;%22Information+wants+to+be+free.%22)](https://git.io/typing-svg)
 
-</div>
+<br>
 
-<div align="center">
-
-  [![Website](https://img.shields.io/badge/Website-ringmast4r.org-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ringmast4r.org)
-  [![Instagram](https://img.shields.io/badge/Instagram-@ringmast4r-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ringmast4r)
-  [![GitHub](https://img.shields.io/badge/GitHub-Ringmast4r-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r)
-  [![YouTube](https://img.shields.io/badge/YouTube-Ringmaster_Emporium-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ringmast4r)
+[![Website](https://img.shields.io/badge/Website-ringmast4r.org-CC0000?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ringmast4r.org)
+[![Instagram](https://img.shields.io/badge/Instagram-@ringmast4r-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ringmast4r)
+[![GitHub](https://img.shields.io/badge/GitHub-Ringmast4r-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r)
+[![YouTube](https://img.shields.io/badge/YouTube-Ringmaster_Emporium-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ringmast4r)
 
 </div>
 
