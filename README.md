@@ -90,9 +90,10 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-![Ringmast4r's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ringmast4r&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF)
-
-![Top Languages](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF)
+<a href="https://github.com/ringmast4r">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ringmast4r&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&icon_color=CC0000&text_color=FFFFFF&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ringmast4r&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=CC0000&text_color=FFFFFF"/>
+</a>
 
 </div>
 
@@ -102,7 +103,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 32 Public Repositories
+### All 33 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -121,6 +122,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**DEAD-MANS-TRIGGER**](https://github.com/Ringmast4r/DEAD-MANS-TRIGGER) | Automated safety switch - encrypted messages | ![](https://img.shields.io/github/stars/Ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=CC0000&label=★) |
 | [**wardriving-converter**](https://github.com/Ringmast4r/wardriving-converter) | Universal wardriving file converter - 12+ formats | ![](https://img.shields.io/github/stars/Ringmast4r/wardriving-converter?style=flat-square&color=CC0000&label=★) |
 | [**FORKED-SecKC-MHN-Globe**](https://github.com/Ringmast4r/FORKED-SecKC-MHN-Globe) | Terminal UI cyberattack visualization | ![](https://img.shields.io/github/stars/Ringmast4r/FORKED-SecKC-MHN-Globe?style=flat-square&color=CC0000&label=★) |
+| [**FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT**](https://github.com/Ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT) | Experimental upgrade of MHN Globe visualization | ![](https://img.shields.io/github/stars/Ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT?style=flat-square&color=CC0000&label=★) |
 | [**PROJECT-159**](https://github.com/Ringmast4r/PROJECT-159) | Biblical encyclopedia - 159 books cross-reference | ![](https://img.shields.io/github/stars/Ringmast4r/PROJECT-159?style=flat-square&color=CC0000&label=★) |
 | [**Router-Rader**](https://github.com/Ringmast4r/Router-Rader) | Router detection and analysis tool | ![](https://img.shields.io/github/stars/Ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=★) |
 | [**The-Holy-Bible**](https://github.com/Ringmast4r/The-Holy-Bible) | Digital Bible application | ![](https://img.shields.io/github/stars/Ringmast4r/The-Holy-Bible?style=flat-square&color=CC0000&label=★) |
@@ -146,15 +148,15 @@ ringmast4r@github:~$ cat profile.txt
 <div align="center">
 
 ```
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                                                                              ║
-║   "While others see empty streets, I see millions of signals waiting        ║
-║    to be discovered. Every BSSID has a location. Every location,            ║
-║    a story. I don't just drive — I wardrive."                               ║
-║                                                                              ║
-║                                              - RINGMAST4R                    ║
-║                                                                              ║
-╚══════════════════════════════════════════════════════════════════════════════╝
++------------------------------------------------------------------------------+
+|                                                                              |
+|   "While others see empty streets, I see millions of signals waiting         |
+|    to be discovered. Every BSSID has a location. Every location,             |
+|    a story. I don't just drive - I wardrive."                                |
+|                                                                              |
+|                                               - RINGMAST4R                   |
+|                                                                              |
++------------------------------------------------------------------------------+
 ```
 
 [![Visitors](https://api.visitorbadge.io/api/visitors?path=Ringmast4r&labelColor=%23000000&countColor=%23CC0000&style=for-the-badge)](https://visitorbadge.io/status?path=Ringmast4r)
