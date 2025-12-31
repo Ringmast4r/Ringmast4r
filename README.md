@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 36 Public Repositories
+### All 37 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -143,6 +143,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**Ringmast4rs-Retro-Rom-Revival**](https://github.com/ringmast4r/Ringmast4rs-Retro-Rom-Revival) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4rs-Retro-Rom-Revival?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FLOCK-CSV-EXAMINER**](https://github.com/ringmast4r/FLOCK-CSV-EXAMINER) | No description | ![](https://img.shields.io/github/stars/ringmast4r/FLOCK-CSV-EXAMINER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Follow-The-White-Rabbit-Game-JavaScript**](https://github.com/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) |  Java-based narrative adventure combining The Matrix and ... | ![](https://img.shields.io/github/stars/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**crystal-vault**](https://github.com/ringmast4r/crystal-vault) | Documenting Venezuela's surveillance infrastructure throu... | ![](https://img.shields.io/github/stars/ringmast4r/crystal-vault?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Huginn-Muninn**](https://github.com/ringmast4r/Huginn-Muninn) | The ravens bring knowledge - Internet crowdsourced OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/Huginn-Muninn?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4r**](https://github.com/ringmast4r/Ringmast4r) | Welcome to the Circus Motherfuckers! | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
