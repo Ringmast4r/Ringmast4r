@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 42 Public Repositories
+### All 41 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -128,7 +128,6 @@ ringmast4r@github:~$ cat profile.txt
 | [**surveillance-capabilities-map**](https://github.com/ringmast4r/surveillance-capabilities-map) | Interactive map of US police surveillance capabilities | ![](https://img.shields.io/github/stars/ringmast4r/surveillance-capabilities-map?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4r**](https://github.com/ringmast4r/Ringmast4r) | Welcome to the Circus Motherfuckers! | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Cuba**](https://github.com/ringmast4r/Cuba) | OSINT Probe into Cuba | ![](https://img.shields.io/github/stars/ringmast4r/Cuba?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Colombia**](https://github.com/ringmast4r/Colombia) |  OSINT intelligence on US-sanctioned Colombian President ... | ![](https://img.shields.io/github/stars/ringmast4r/Colombia?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**OSINT-VISUALIZER**](https://github.com/ringmast4r/OSINT-VISUALIZER) |  Mock OSINT visualization tool demo with client-side sear... | ![](https://img.shields.io/github/stars/ringmast4r/OSINT-VISUALIZER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**WiGLE-Vault**](https://github.com/ringmast4r/WiGLE-Vault) | Download all your WiGLE wardriving data in one command. S... | ![](https://img.shields.io/github/stars/ringmast4r/WiGLE-Vault?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**higole**](https://github.com/ringmast4r/higole) | Community support resource for Higole Gole 1 Pro 5.5" Ind... | ![](https://img.shields.io/github/stars/ringmast4r/higole?style=flat-square&color=CC0000&label=%E2%98%85) |
