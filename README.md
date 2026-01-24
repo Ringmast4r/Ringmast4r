@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 41 Public Repositories
+### All 42 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -149,6 +149,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | UI written for the LilyGo-EPD47-S3 project | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4rs-Retro-Rom-Revival**](https://github.com/ringmast4r/Ringmast4rs-Retro-Rom-Revival) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4rs-Retro-Rom-Revival?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Follow-The-White-Rabbit-Game-JavaScript**](https://github.com/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) |  Java-based narrative adventure combining The Matrix and ... | ![](https://img.shields.io/github/stars/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Tower-Hunter**](https://github.com/ringmast4r/Tower-Hunter) | Cell tower logger and anomaly detector for Linux mobile d... | ![](https://img.shields.io/github/stars/ringmast4r/Tower-Hunter?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Huginn-Muninn**](https://github.com/ringmast4r/Huginn-Muninn) | The ravens bring knowledge - Internet crowdsourced OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/Huginn-Muninn?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**null**](https://github.com/ringmast4r/null) | No description | ![](https://img.shields.io/github/stars/ringmast4r/null?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
