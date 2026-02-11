@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 44 Public Repositories
+### All 45 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -126,9 +126,9 @@ ringmast4r@github:~$ cat profile.txt
 | [**MAC-SPOOFER**](https://github.com/ringmast4r/MAC-SPOOFER) |  Cross-platform MAC address spoofing tool with GUI and CL... | ![](https://img.shields.io/github/stars/ringmast4r/MAC-SPOOFER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**PathFinder**](https://github.com/ringmast4r/PathFinder) | PathFinder - Advanced path traversal and directory enumer... | ![](https://img.shields.io/github/stars/ringmast4r/PathFinder?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4r**](https://github.com/ringmast4r/Ringmast4r) | Welcome to the Circus Motherfuckers! | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**ODINT**](https://github.com/ringmast4r/ODINT) | The Observatory for Digital Infrastructure & Network Tran... | ![](https://img.shields.io/github/stars/ringmast4r/ODINT?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Cuba**](https://github.com/ringmast4r/Cuba) | OSINT Probe into Cuba | ![](https://img.shields.io/github/stars/ringmast4r/Cuba?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**surveillance-capabilities-map**](https://github.com/ringmast4r/surveillance-capabilities-map) | Interactive map of US police surveillance capabilities | ![](https://img.shields.io/github/stars/ringmast4r/surveillance-capabilities-map?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**ODINT**](https://github.com/ringmast4r/ODINT) | The Observatory for Digital Infrastructure & Network Tran... | ![](https://img.shields.io/github/stars/ringmast4r/ODINT?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**The-Art-of-War-CLI**](https://github.com/ringmast4r/The-Art-of-War-CLI) | An interactive CLI app to read The Art of War with crimso... | ![](https://img.shields.io/github/stars/ringmast4r/The-Art-of-War-CLI?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Iran**](https://github.com/ringmast4r/Iran) |  OSINT on Iranian government infrastructure & Hezbollah m... | ![](https://img.shields.io/github/stars/ringmast4r/Iran?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**WiGLE-Vault**](https://github.com/ringmast4r/WiGLE-Vault) | Download all your WiGLE wardriving data in one command. S... | ![](https://img.shields.io/github/stars/ringmast4r/WiGLE-Vault?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -148,6 +148,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**t5-epaper-meshtastic**](https://github.com/ringmast4r/t5-epaper-meshtastic) | The official firmware for Meshtastic, an open-source, off... | ![](https://img.shields.io/github/stars/ringmast4r/t5-epaper-meshtastic?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**The-Holy-Bible**](https://github.com/ringmast4r/The-Holy-Bible) | No description | ![](https://img.shields.io/github/stars/ringmast4r/The-Holy-Bible?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Library-of-Congress-Power-Search**](https://github.com/ringmast4r/Library-of-Congress-Power-Search) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Library-of-Congress-Power-Search?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**FRANKENSTEIN**](https://github.com/ringmast4r/FRANKENSTEIN) | Dual-phenomenology site checker — DNS + HTTP/S probing, 5... | ![](https://img.shields.io/github/stars/ringmast4r/FRANKENSTEIN?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Huginn-Muninn**](https://github.com/ringmast4r/Huginn-Muninn) | The ravens bring knowledge - Internet crowdsourced OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/Huginn-Muninn?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**APTs**](https://github.com/ringmast4r/APTs) | Advanced Persistent Threats - Adversary Emulation Referen... | ![](https://img.shields.io/github/stars/ringmast4r/APTs?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | UI written for the LilyGo-EPD47-S3 project | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
