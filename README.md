@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 47 Public Repositories
+### All 48 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -132,11 +132,11 @@ ringmast4r@github:~$ cat profile.txt
 | [**Iran**](https://github.com/ringmast4r/Iran) |  OSINT on Iranian government infrastructure & Hezbollah m... | ![](https://img.shields.io/github/stars/ringmast4r/Iran?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**The-Art-of-War-CLI**](https://github.com/ringmast4r/The-Art-of-War-CLI) | An interactive CLI app to read The Art of War with crimso... | ![](https://img.shields.io/github/stars/ringmast4r/The-Art-of-War-CLI?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**OSINT-VISUALIZER**](https://github.com/ringmast4r/OSINT-VISUALIZER) |  Mock OSINT visualization tool demo with client-side sear... | ![](https://img.shields.io/github/stars/ringmast4r/OSINT-VISUALIZER?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Epstein**](https://github.com/ringmast4r/Epstein) | Monitoring the DOJ Epstein Files — 931,000 PDFs, 0 arrests | ![](https://img.shields.io/github/stars/ringmast4r/Epstein?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**DEAD-MANS-TRIGGER**](https://github.com/ringmast4r/DEAD-MANS-TRIGGER) | Dead Man's Trigger - Automated safety switch that sends e... | ![](https://img.shields.io/github/stars/ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**NAZIS**](https://github.com/ringmast4r/NAZIS) | We're in the exposin' Nazis business. And cousin, busines... | ![](https://img.shields.io/github/stars/ringmast4r/NAZIS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Tower-Hunter**](https://github.com/ringmast4r/Tower-Hunter) | Cell tower logger and anomaly detector for Linux mobile d... | ![](https://img.shields.io/github/stars/ringmast4r/Tower-Hunter?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**WiGLE-Vault**](https://github.com/ringmast4r/WiGLE-Vault) | Download all your WiGLE wardriving data in one command. S... | ![](https://img.shields.io/github/stars/ringmast4r/WiGLE-Vault?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Epstein**](https://github.com/ringmast4r/Epstein) | Monitoring the DOJ Epstein Files — 931,000 PDFs, 0 arrests | ![](https://img.shields.io/github/stars/ringmast4r/Epstein?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**higole**](https://github.com/ringmast4r/higole) | Community support resource for Higole Gole 1 Pro 5.5" Ind... | ![](https://img.shields.io/github/stars/ringmast4r/higole?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Venezuela**](https://github.com/ringmast4r/Venezuela) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Venezuela?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**wardriving-converter**](https://github.com/ringmast4r/wardriving-converter) | Universal wardriving file converter - supports 12+ format... | ![](https://img.shields.io/github/stars/ringmast4r/wardriving-converter?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -156,6 +156,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | UI written for the LilyGo-EPD47-S3 project | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4rs-Retro-Rom-Revival**](https://github.com/ringmast4r/Ringmast4rs-Retro-Rom-Revival) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4rs-Retro-Rom-Revival?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Follow-The-White-Rabbit-Game-JavaScript**](https://github.com/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) |  Java-based narrative adventure combining The Matrix and ... | ![](https://img.shields.io/github/stars/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Colombia**](https://github.com/ringmast4r/Colombia) |  OSINT intelligence on US-sanctioned Colombian President ... | ![](https://img.shields.io/github/stars/ringmast4r/Colombia?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**null**](https://github.com/ringmast4r/null) | No description | ![](https://img.shields.io/github/stars/ringmast4r/null?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Router-Rader**](https://github.com/ringmast4r/Router-Rader) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=%E2%98%85) |
