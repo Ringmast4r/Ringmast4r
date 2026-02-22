@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 48 Public Repositories
+### All 57 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -151,11 +151,20 @@ ringmast4r@github:~$ cat profile.txt
 | [**t5-epaper-meshtastic**](https://github.com/ringmast4r/t5-epaper-meshtastic) | The official firmware for Meshtastic, an open-source, off... | ![](https://img.shields.io/github/stars/ringmast4r/t5-epaper-meshtastic?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**The-Holy-Bible**](https://github.com/ringmast4r/The-Holy-Bible) | No description | ![](https://img.shields.io/github/stars/ringmast4r/The-Holy-Bible?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Library-of-Congress-Power-Search**](https://github.com/ringmast4r/Library-of-Congress-Power-Search) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Library-of-Congress-Power-Search?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Recon-Suite**](https://github.com/ringmast4r/Recon-Suite) | OSINT arsenal for aggressive reconnaissance at scale. API... | ![](https://img.shields.io/github/stars/ringmast4r/Recon-Suite?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**vecert-exposed**](https://github.com/ringmast4r/vecert-exposed) | OSINT investigation into VECERT Security Labs USA LLC — a... | ![](https://img.shields.io/github/stars/ringmast4r/vecert-exposed?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**website-lists**](https://github.com/ringmast4r/website-lists) | TARGET LIST | ![](https://img.shields.io/github/stars/ringmast4r/website-lists?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**APTs**](https://github.com/ringmast4r/APTs) | Advanced Persistent Threats - Adversary Emulation Referen... | ![](https://img.shields.io/github/stars/ringmast4r/APTs?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | UI written for the LilyGo-EPD47-S3 project | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4rs-Retro-Rom-Revival**](https://github.com/ringmast4r/Ringmast4rs-Retro-Rom-Revival) | No description | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4rs-Retro-Rom-Revival?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Follow-The-White-Rabbit-Game-JavaScript**](https://github.com/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) |  Java-based narrative adventure combining The Matrix and ... | ![](https://img.shields.io/github/stars/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**leakix**](https://github.com/ringmast4r/leakix) | leakix is ​​a tool created by leakix.com that helps cyber... | ![](https://img.shields.io/github/stars/ringmast4r/leakix?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**DarkEye**](https://github.com/ringmast4r/DarkEye) | Darkeye is a tool of Asian origin created by darkeye.org.... | ![](https://img.shields.io/github/stars/ringmast4r/DarkEye?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**LeakBaseCTI**](https://github.com/ringmast4r/LeakBaseCTI) | specialized investigative framework to investigate cases ... | ![](https://img.shields.io/github/stars/ringmast4r/LeakBaseCTI?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**XSS.isCTI**](https://github.com/ringmast4r/XSS.isCTI) | specialized investigative framework to investigate cases ... | ![](https://img.shields.io/github/stars/ringmast4r/XSS.isCTI?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Intelx_CLI_Free_Version**](https://github.com/ringmast4r/Intelx_CLI_Free_Version) | This script is functional for “academic and free” users. ... | ![](https://img.shields.io/github/stars/ringmast4r/Intelx_CLI_Free_Version?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Analyzer_forums**](https://github.com/ringmast4r/Analyzer_forums) | consumes the largest collection of forum content speciali... | ![](https://img.shields.io/github/stars/ringmast4r/Analyzer_forums?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**DarkForumCTI**](https://github.com/ringmast4r/DarkForumCTI) | specialized investigative framework to investigate cases ... | ![](https://img.shields.io/github/stars/ringmast4r/DarkForumCTI?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Colombia**](https://github.com/ringmast4r/Colombia) |  OSINT intelligence on US-sanctioned Colombian President ... | ![](https://img.shields.io/github/stars/ringmast4r/Colombia?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**null**](https://github.com/ringmast4r/null) | No description | ![](https://img.shields.io/github/stars/ringmast4r/null?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
