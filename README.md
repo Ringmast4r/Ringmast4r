@@ -112,7 +112,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 58 Public Repositories
+### All 57 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -132,7 +132,6 @@ ringmast4r@github:~$ cat profile.txt
 | [**Cuba**](https://github.com/ringmast4r/Cuba) | OSINT Probe into Cuba | ![](https://img.shields.io/github/stars/ringmast4r/Cuba?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Iran**](https://github.com/ringmast4r/Iran) |  OSINT on Iranian government infrastructure & Hezbollah m... | ![](https://img.shields.io/github/stars/ringmast4r/Iran?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**surveillance-capabilities-map**](https://github.com/ringmast4r/surveillance-capabilities-map) | Interactive map of US police surveillance capabilities | ![](https://img.shields.io/github/stars/ringmast4r/surveillance-capabilities-map?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Recon-Suite**](https://github.com/ringmast4r/Recon-Suite) | OSINT arsenal for aggressive reconnaissance at scale. API... | ![](https://img.shields.io/github/stars/ringmast4r/Recon-Suite?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**WiGLE-Vault**](https://github.com/ringmast4r/WiGLE-Vault) | Download all your WiGLE wardriving data in one command. S... | ![](https://img.shields.io/github/stars/ringmast4r/WiGLE-Vault?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**DEAD-MANS-TRIGGER**](https://github.com/ringmast4r/DEAD-MANS-TRIGGER) | Dead Man's Trigger - Automated safety switch that sends e... | ![](https://img.shields.io/github/stars/ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**csv-merger**](https://github.com/ringmast4r/csv-merger) | Merge multiple CSV files into one mega CSV. Simple, fast,... | ![](https://img.shields.io/github/stars/ringmast4r/csv-merger?style=flat-square&color=CC0000&label=%E2%98%85) |
