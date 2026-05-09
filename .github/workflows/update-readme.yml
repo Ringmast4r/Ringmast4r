@@ -39,6 +39,7 @@ jobs:
           THEME: radical
 
       - name: Commit and push if changed
+        if: always()
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
