@@ -172,7 +172,7 @@ pie showData
 
 <div align="center">
 
-### All 55 Public Repositories
+### All 58 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -231,6 +231,9 @@ pie showData
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | UI written for the LilyGo-EPD47-S3 project | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**viewer-website**](https://github.com/ringmast4r/viewer-website) | Professional artist website for VIEWER - Drum and Bass pr... | ![](https://img.shields.io/github/stars/ringmast4r/viewer-website?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**fallen-repos**](https://github.com/ringmast4r/fallen-repos) | Preservation archive of GitHub repositories lost to DMCA,... | ![](https://img.shields.io/github/stars/ringmast4r/fallen-repos?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Global-Data-Center-Map**](https://github.com/ringmast4r/Global-Data-Center-Map) | ATLAS (All The Locations of All Servers) -- 18,110 data c... | ![](https://img.shields.io/github/stars/ringmast4r/Global-Data-Center-Map?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**RF-Protocol-Database**](https://github.com/ringmast4r/RF-Protocol-Database) | The largest open-source unified Sub-GHz RF device protoco... | ![](https://img.shields.io/github/stars/ringmast4r/RF-Protocol-Database?style=flat-square&color=CC0000&label=%E2%98%85) |
 
 </div>
 
