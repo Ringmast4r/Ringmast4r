@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 """Auto-update README with latest repo list and language badges from GitHub API."""
 
+import os
 import requests
 import re
 import urllib.parse
@@ -8,6 +9,11 @@ from collections import Counter
 
 GITHUB_USERNAME = "ringmast4r"
 README_PATH = "README.md"
+
+_token = os.environ.get("GITHUB_TOKEN")
+HEADERS = {"Accept": "application/vnd.github+json"}
+if _token:
+    HEADERS["Authorization"] = f"Bearer {_token}"
 
 # Language -> (shields.io color, logo name, logo color)
 # If a language isn't here it gets a default gray badge
@@ -63,10 +69,9 @@ def fetch_repos():
     page = 1
     while True:
         url = f"https://api.github.com/users/{GITHUB_USERNAME}/repos?per_page=100&page={page}&sort=updated"
-        response = requests.get(url)
+        response = requests.get(url, headers=HEADERS)
         if response.status_code != 200:
-            print(f"Error fetching repos: {response.status_code}")
-            break
+            raise SystemExit(f"Error fetching repos page {page}: {response.status_code} {response.text[:200]}")
         data = response.json()
         if not data:
             break
@@ -83,7 +88,7 @@ def fetch_all_languages(repos):
         if not url:
             continue
         try:
-            resp = requests.get(url)
+            resp = requests.get(url, headers=HEADERS)
             if resp.status_code == 200:
                 langs = resp.json()
                 for lang, bytes_count in langs.items():
