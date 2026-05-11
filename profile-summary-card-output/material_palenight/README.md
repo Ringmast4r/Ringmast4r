@@ -42,23 +42,3 @@
 ```
 
     
-
----
-
-![](./3-stats.svg)
-
-```
-![](https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/main/profile-summary-card-output/material_palenight/3-stats.svg)
-```
-
-    
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/main/profile-summary-card-output/material_palenight/4-productive-time.svg)
-```
-
-    
