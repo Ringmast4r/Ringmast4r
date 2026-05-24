@@ -64,11 +64,12 @@ ringmast4r@github:~$ cat profile.txt
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Logos](https://img.shields.io/badge/Logos-555555?style=for-the-badge&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![M4](https://img.shields.io/badge/M4-555555?style=for-the-badge&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-555555?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kaitai Struct](https://img.shields.io/badge/Kaitai%20Struct-555555?style=for-the-badge&logoColor=white)
@@ -200,8 +201,8 @@ pie showData
 | [**surveillance-capabilities-map**](https://github.com/ringmast4r/surveillance-capabilities-map) | Interactive map of US police surveillance capabilities | ![](https://img.shields.io/github/stars/ringmast4r/surveillance-capabilities-map?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**RF-Protocol-Database**](https://github.com/ringmast4r/RF-Protocol-Database) | The largest open-source unified Sub-GHz RF device protoco... | ![](https://img.shields.io/github/stars/ringmast4r/RF-Protocol-Database?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Iran**](https://github.com/ringmast4r/Iran) |  OSINT on Iranian government infrastructure & Hezbollah m... | ![](https://img.shields.io/github/stars/ringmast4r/Iran?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Global-Data-Center-Map**](https://github.com/ringmast4r/Global-Data-Center-Map) | ATLAS (All The Locations of All Servers) -- 18,110 data c... | ![](https://img.shields.io/github/stars/ringmast4r/Global-Data-Center-Map?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Huginn-Muninn**](https://github.com/ringmast4r/Huginn-Muninn) | The ravens bring knowledge - Internet crowdsourced OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/Huginn-Muninn?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Global-Data-Center-Map**](https://github.com/ringmast4r/Global-Data-Center-Map) | ATLAS (All The Locations of All Servers) -- 18,110 data c... | ![](https://img.shields.io/github/stars/ringmast4r/Global-Data-Center-Map?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**WiGLE-Vault**](https://github.com/ringmast4r/WiGLE-Vault) | Download all your WiGLE wardriving data in one command. S... | ![](https://img.shields.io/github/stars/ringmast4r/WiGLE-Vault?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Cuba**](https://github.com/ringmast4r/Cuba) | OSINT Probe into Cuba | ![](https://img.shields.io/github/stars/ringmast4r/Cuba?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**wardriving-converter**](https://github.com/ringmast4r/wardriving-converter) | Universal wardriving file converter - supports 12+ format... | ![](https://img.shields.io/github/stars/ringmast4r/wardriving-converter?style=flat-square&color=CC0000&label=%E2%98%85) |
