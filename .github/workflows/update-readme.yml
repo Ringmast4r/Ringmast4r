@@ -2,7 +2,7 @@ name: Update README
 
 on:
   schedule:
-    - cron: '0 */6 * * *'
+    - cron: '0 6 */5 * *'
   workflow_dispatch:
   push:
     branches:
@@ -25,18 +25,22 @@ jobs:
       - name: Install dependencies
         run: pip install requests
 
+      # Cards run FIRST, against a clean tree. This action does its own
+      # internal git commit; if README.md is already dirty but unstaged it
+      # exits 1 and fails the job.
+      - name: Generate profile summary cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        continue-on-error: true
+        env:
+          GITHUB_TOKEN: ${{ secrets.PROFILE_TOKEN || secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: Ringmast4r
+          THEME: radical
+
       - name: Update README
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         run: python .github/scripts/update_readme.py
-
-      - name: Generate profile summary cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-        with:
-          USERNAME: Ringmast4r
-          THEME: radical
 
       - name: Commit and push if changed
         if: always()
@@ -44,4 +48,11 @@ jobs:
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
           git add -A
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-update README stats" && git push)
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            exit 0
+          fi
+          git commit -m "Auto-update README stats"
+          # the cards action may have already pushed; rebase before we push
+          git pull --rebase origin main
+          git push
