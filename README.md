@@ -63,11 +63,12 @@ ringmast4r@github:~$ cat profile.txt
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Logos](https://img.shields.io/badge/Logos-555555?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![M4](https://img.shields.io/badge/M4-555555?style=for-the-badge&logoColor=white)
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white)
@@ -189,7 +190,7 @@ pie showData
 
 <div align="center">
 
-### All 70 Public Repositories
+### All 72 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -261,6 +262,8 @@ pie showData
 | [**Rainmeter**](https://github.com/ringmast4r/Rainmeter) | Collection of Rainmeter skins for Windows: live desktop w... | ![](https://img.shields.io/github/stars/ringmast4r/Rainmeter?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**viewer-website**](https://github.com/ringmast4r/viewer-website) | Professional artist website for VIEWER - Drum and Bass pr... | ![](https://img.shields.io/github/stars/ringmast4r/viewer-website?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**chronas-frontend**](https://github.com/ringmast4r/chronas-frontend) | chronas-frontend v2 | ![](https://img.shields.io/github/stars/ringmast4r/chronas-frontend?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**famelack-data**](https://github.com/ringmast4r/famelack-data) | The official public dataset for Famelack. | ![](https://img.shields.io/github/stars/ringmast4r/famelack-data?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**ncric-alprs**](https://github.com/ringmast4r/ncric-alprs) | ALPRS (AstroMetrics) Automated AWS Infrastructure Deploym... | ![](https://img.shields.io/github/stars/ringmast4r/ncric-alprs?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**HTML-Viewers**](https://github.com/ringmast4r/HTML-Viewers) | Five single-file offline HTML viewers for PCAP, Markdown,... | ![](https://img.shields.io/github/stars/ringmast4r/HTML-Viewers?style=flat-square&color=CC0000&label=%E2%98%85) |
 
