@@ -1,6 +1,12 @@
+<div align="center">
+
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=200&section=header&text=RINGMAST4R&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=OSINT%20|%20Security%20Infrastructure%20|%20Mapping%20the%20Internet's%20Backbone&descSize=18&descAlignY=55"/>
 
-<div align="center">
+[`GitHub`](https://github.com/) [`Markdown`](https://www.markdownguide.org/) `Profile` `OSINT` - Welcome to the Circus Motherfuckers!
+
+[Project website / live view](https://ringmast4r.org/)
+
+
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=CC0000&center=true&vCenter=true&multiline=true&repeat=true&width=950&height=120&lines=%E2%96%88%E2%96%88%E2%96%88+WELCOME+TO+THE+CIRCUS+%E2%96%88%E2%96%88%E2%96%88;Cybersecurity+Researcher+%7C+Licensed+PI+%7C+OSINT+Master;%22Information+wants+to+be+free.%22)](https://git.io/typing-svg)
 
@@ -10,6 +16,12 @@
 [![Instagram](https://img.shields.io/badge/Instagram-@ringmast4r-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ringmast4r)
 [![GitHub](https://img.shields.io/badge/GitHub-Ringmast4r-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ringmast4r)
 [![YouTube](https://img.shields.io/badge/YouTube-Ringmaster_Emporium-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@Ringmast4r)
+
+
+[![Stars](https://img.shields.io/github/stars/Ringmast4r/Ringmast4r?style=flat-square&color=CC0000)](https://github.com/Ringmast4r/Ringmast4r/stargazers)
+[![Forks](https://img.shields.io/github/forks/Ringmast4r/Ringmast4r?style=flat-square&color=CC0000)](https://github.com/Ringmast4r/Ringmast4r/network/members)
+[![Repo Size](https://img.shields.io/github/repo-size/Ringmast4r/Ringmast4r?style=flat-square&color=CC0000)](https://github.com/Ringmast4r/Ringmast4r)
+[![Last Commit](https://img.shields.io/github/last-commit/Ringmast4r/Ringmast4r?style=flat-square&color=CC0000)](https://github.com/Ringmast4r/Ringmast4r/commits/main)
 
 </div>
 
