@@ -77,9 +77,9 @@ ringmast4r@github:~$ cat profile.txt
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Logos](https://img.shields.io/badge/Logos-555555?style=for-the-badge&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![HCL](https://img.shields.io/badge/HCL-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
 ![M4](https://img.shields.io/badge/M4-555555?style=for-the-badge&logoColor=white)
@@ -87,11 +87,13 @@ ringmast4r@github:~$ cat profile.txt
 ![Makefile](https://img.shields.io/badge/Makefile-427819?style=for-the-badge&logo=cmake&logoColor=white)
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
 ![BitBake](https://img.shields.io/badge/BitBake-555555?style=for-the-badge&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-555555?style=for-the-badge&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kaitai Struct](https://img.shields.io/badge/Kaitai%20Struct-555555?style=for-the-badge&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective-C-555555?style=for-the-badge&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logoColor=white)
+![GLSL](https://img.shields.io/badge/GLSL-555555?style=for-the-badge&logoColor=white)
 ![Pascal](https://img.shields.io/badge/Pascal-555555?style=for-the-badge&logoColor=white)
 ![Dockerfile](https://img.shields.io/badge/Dockerfile-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Handlebars](https://img.shields.io/badge/Handlebars-FF7C00?style=for-the-badge&logo=handlebarsdotjs&logoColor=white)
@@ -233,14 +235,14 @@ pie showData
 | [**vecert-exposed**](https://github.com/ringmast4r/vecert-exposed) | `Web` `HTML` `OSINT` `Investigation` - OSINT investigatio... | ![](https://img.shields.io/github/stars/ringmast4r/vecert-exposed?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ad-Tech-Surveillance**](https://github.com/ringmast4r/Ad-Tech-Surveillance) | `GitHub` `Markdown` `ADINT` `Research` - ADINT: a field g... | ![](https://img.shields.io/github/stars/ringmast4r/Ad-Tech-Surveillance?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**csv-merger**](https://github.com/ringmast4r/csv-merger) | `Cross-platform` `Python` `CSV` `Utility` - Merge multipl... | ![](https://img.shields.io/github/stars/ringmast4r/csv-merger?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**PROJECT-159**](https://github.com/ringmast4r/PROJECT-159) | `Web` `HTML` `Dataset` `Reference` - Biblical encyclopedi... | ![](https://img.shields.io/github/stars/ringmast4r/PROJECT-159?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FLOCK-CSV-EXAMINER**](https://github.com/ringmast4r/FLOCK-CSV-EXAMINER) | `Web` `Python` `CSV` `Wardriving` - Drop wardriving CSVs ... | ![](https://img.shields.io/github/stars/ringmast4r/FLOCK-CSV-EXAMINER?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**OSINT-VISUALIZER**](https://github.com/ringmast4r/OSINT-VISUALIZER) | `Web` `HTML` `JavaScript` `Demo` - Mock OSINT visualizati... | ![](https://img.shields.io/github/stars/ringmast4r/OSINT-VISUALIZER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**higole**](https://github.com/ringmast4r/higole) | `Windows` `Linux` `Markdown` `Hardware` - Community suppo... | ![](https://img.shields.io/github/stars/ringmast4r/higole?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**PROJECT-159**](https://github.com/ringmast4r/PROJECT-159) | `Web` `HTML` `Dataset` `Reference` - Biblical encyclopedi... | ![](https://img.shields.io/github/stars/ringmast4r/PROJECT-159?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**OSINT-VISUALIZER**](https://github.com/ringmast4r/OSINT-VISUALIZER) | `Web` `HTML` `JavaScript` `Demo` - Mock OSINT visualizati... | ![](https://img.shields.io/github/stars/ringmast4r/OSINT-VISUALIZER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**back-to-the-future-tv**](https://github.com/ringmast4r/back-to-the-future-tv) | `Web` `Python` `HLS` `IPTV` - A multi-screen wall of 15,0... | ![](https://img.shields.io/github/stars/ringmast4r/back-to-the-future-tv?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**The-Art-of-War-CLI**](https://github.com/ringmast4r/The-Art-of-War-CLI) | `Terminal` `JavaScript` `Node.js` `Reader` - An interacti... | ![](https://img.shields.io/github/stars/ringmast4r/The-Art-of-War-CLI?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**fallen-repos**](https://github.com/ringmast4r/fallen-repos) | `GitHub` `Markdown` `Archive` `Preservation` - Preservati... | ![](https://img.shields.io/github/stars/ringmast4r/fallen-repos?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Colombia**](https://github.com/ringmast4r/Colombia) | `Web` `HTML` `OSINT` `Archive` - OSINT intelligence on US... | ![](https://img.shields.io/github/stars/ringmast4r/Colombia?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**fallen-repos**](https://github.com/ringmast4r/fallen-repos) | `GitHub` `Markdown` `Archive` `Preservation` - Preservati... | ![](https://img.shields.io/github/stars/ringmast4r/fallen-repos?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Albania-AI-Diella**](https://github.com/ringmast4r/Albania-AI-Diella) | `Web` `HTML` `OSINT` `Archive` - Albania AI Diella OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/Albania-AI-Diella?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Venezuela**](https://github.com/ringmast4r/Venezuela) | `Web` `HTML` `News` `Archive` - Breaking-news landing pag... | ![](https://img.shields.io/github/stars/ringmast4r/Venezuela?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT**](https://github.com/ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT) | `Terminal` `Go` `Visualization` `Fork` - Terminal UI visu... | ![](https://img.shields.io/github/stars/ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -252,9 +254,9 @@ pie showData
 | [**website-lists**](https://github.com/ringmast4r/website-lists) | `Cross-platform` `Text` `OSINT` `Reference` - Categorized... | ![](https://img.shields.io/github/stars/ringmast4r/website-lists?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4r-TV**](https://github.com/ringmast4r/Ringmast4r-TV) | `Web` `Docker` `ErsatzTV` `IPTV` - Run your own 24/7 cabl... | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r-TV?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Gods-Eye-Index**](https://github.com/ringmast4r/Gods-Eye-Index) | `Web` `Python` `OSINT` `Reference` - Index of every God's... | ![](https://img.shields.io/github/stars/ringmast4r/Gods-Eye-Index?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Router-Rader**](https://github.com/ringmast4r/Router-Rader) | `Cross-platform` `Python` `Networking` `Monitoring` - Net... | ![](https://img.shields.io/github/stars/ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Library-of-Congress-Power-Search**](https://github.com/ringmast4r/Library-of-Congress-Power-Search) | `Desktop` `JavaScript` `Electron` `Search` - Desktop sear... | ![](https://img.shields.io/github/stars/ringmast4r/Library-of-Congress-Power-Search?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Analyzer_forums**](https://github.com/ringmast4r/Analyzer_forums) | `CLI` `Python` `Threat-intelligence` `Fork` - consumes th... | ![](https://img.shields.io/github/stars/ringmast4r/Analyzer_forums?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Router-Rader**](https://github.com/ringmast4r/Router-Rader) | `Cross-platform` `Python` `Networking` `Monitoring` - Net... | ![](https://img.shields.io/github/stars/ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**t5-epaper-meshtastic**](https://github.com/ringmast4r/t5-epaper-meshtastic) | `Embedded` `C++` `Meshtastic` `Firmware` `Fork` - The off... | ![](https://img.shields.io/github/stars/ringmast4r/t5-epaper-meshtastic?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**APTs**](https://github.com/ringmast4r/APTs) | `GitHub` `Markdown` `Threat-intelligence` `Reference` - A... | ![](https://img.shields.io/github/stars/ringmast4r/APTs?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Consider-The-Consequences-Game**](https://github.com/ringmast4r/Consider-The-Consequences-Game) | `Terminal` `Python` `Interactive-fiction` `Game` - Intera... | ![](https://img.shields.io/github/stars/ringmast4r/Consider-The-Consequences-Game?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -273,7 +275,7 @@ pie showData
 | [**Conky**](https://github.com/ringmast4r/Conky) | `Linux` `Conky` `Widgets` - Collection of Conky configura... | ![](https://img.shields.io/github/stars/ringmast4r/Conky?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**pdf-archive**](https://github.com/ringmast4r/pdf-archive) | `GitHub` `PDF` `Archive` - Personal resource archive | ![](https://img.shields.io/github/stars/ringmast4r/pdf-archive?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**ascii-city**](https://github.com/ringmast4r/ascii-city) | `Web` `HTML` `Canvas` `Game` - Walkable first-person Amer... | ![](https://img.shields.io/github/stars/ringmast4r/ascii-city?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Lively-Wallpapers**](https://github.com/ringmast4r/Lively-Wallpapers) | Custom live wallpapers for Lively Wallpaper on Windows: p... | ![](https://img.shields.io/github/stars/ringmast4r/Lively-Wallpapers?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Lively-Wallpapers**](https://github.com/ringmast4r/Lively-Wallpapers) | Live wallpapers for Lively Wallpaper on Windows: seven of... | ![](https://img.shields.io/github/stars/ringmast4r/Lively-Wallpapers?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**HTML-Viewers**](https://github.com/ringmast4r/HTML-Viewers) | `Web` `HTML` `JavaScript` `Offline` `Viewers` - Six singl... | ![](https://img.shields.io/github/stars/ringmast4r/HTML-Viewers?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | `Linux` `Wireless` `Monitoring` `Fork` - Github mirror of... | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**viewer-website**](https://github.com/ringmast4r/viewer-website) | `Web` `HTML` `JavaScript` `Music` - Professional artist w... | ![](https://img.shields.io/github/stars/ringmast4r/viewer-website?style=flat-square&color=CC0000&label=%E2%98%85) |
