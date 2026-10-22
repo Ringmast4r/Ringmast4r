@@ -88,7 +88,6 @@ ringmast4r@github:~$ cat profile.txt
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 ![CMake](https://img.shields.io/badge/CMake-555555?style=for-the-badge&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Kaitai Struct](https://img.shields.io/badge/Kaitai%20Struct-555555?style=for-the-badge&logoColor=white)
 ![Objective-C](https://img.shields.io/badge/Objective-C-555555?style=for-the-badge&logoColor=white)
 ![Assembly](https://img.shields.io/badge/Assembly-555555?style=for-the-badge&logoColor=white)
@@ -203,7 +202,7 @@ pie showData
 
 <div align="center">
 
-### All 77 Public Repositories
+### All 71 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -217,7 +216,7 @@ pie showData
 | [**GNSS**](https://github.com/ringmast4r/GNSS) | `Web` `JavaScript` `GPS` `Visualization` - Real-time GPS ... | ![](https://img.shields.io/github/stars/ringmast4r/GNSS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Epstein**](https://github.com/ringmast4r/Epstein) | `GitHub` `Python` `PDF` `Public-records` - Public-records... | ![](https://img.shields.io/github/stars/ringmast4r/Epstein?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**MAC-SPOOFER**](https://github.com/ringmast4r/MAC-SPOOFER) | Windows MAC address tool with a Sin City desktop, 58,972 ... | ![](https://img.shields.io/github/stars/ringmast4r/MAC-SPOOFER?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Ringmast4r**](https://github.com/ringmast4r/Ringmast4r) | `GitHub` `Markdown` `Profile` `OSINT` - Welcome to the Ci... | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Ringmast4r**](https://github.com/ringmast4r/Ringmast4r) | Welcome to the Circus Motherfuckers! https://ringmast4r.org/ | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FED**](https://github.com/ringmast4r/FED) | `GitHub` `Markdown` `Intelligence` `Reference` - The Glob... | ![](https://img.shields.io/github/stars/ringmast4r/FED?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**PathFinder**](https://github.com/ringmast4r/PathFinder) | `Cross-platform` `Go` `CLI` `Security` - PathFinder - Adv... | ![](https://img.shields.io/github/stars/ringmast4r/PathFinder?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**RF-Protocol-Database**](https://github.com/ringmast4r/RF-Protocol-Database) | `Cross-platform` `Python` `CSV` `RF` `Dataset` - The larg... | ![](https://img.shields.io/github/stars/ringmast4r/RF-Protocol-Database?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -229,9 +228,9 @@ pie showData
 | [**Cuba**](https://github.com/ringmast4r/Cuba) | `Web` `HTML` `OSINT` `Archive` - OSINT Probe into Cuba | ![](https://img.shields.io/github/stars/ringmast4r/Cuba?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Surveillance-Industry**](https://github.com/ringmast4r/Surveillance-Industry) | `GitHub` `Markdown` `OSINT` `Research` - Country-by-count... | ![](https://img.shields.io/github/stars/ringmast4r/Surveillance-Industry?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**DEAD-MANS-TRIGGER**](https://github.com/ringmast4r/DEAD-MANS-TRIGGER) | `Web` `Node.js` `JavaScript` `Demo` - Educational dead-ma... | ![](https://img.shields.io/github/stars/ringmast4r/DEAD-MANS-TRIGGER?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**NAZIS**](https://github.com/ringmast4r/NAZIS) | `Web` `HTML` `OSINT` `Investigation` - We're in the expos... | ![](https://img.shields.io/github/stars/ringmast4r/NAZIS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**radio-venezuela**](https://github.com/ringmast4r/radio-venezuela) | `Web` `HTML` `Radio` `Research` - Military & Regime Commu... | ![](https://img.shields.io/github/stars/ringmast4r/radio-venezuela?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**vecert-exposed**](https://github.com/ringmast4r/vecert-exposed) | `Web` `HTML` `OSINT` `Investigation` - OSINT investigatio... | ![](https://img.shields.io/github/stars/ringmast4r/vecert-exposed?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**NAZIS**](https://github.com/ringmast4r/NAZIS) | `Web` `HTML` `OSINT` `Investigation` - We're in the expos... | ![](https://img.shields.io/github/stars/ringmast4r/NAZIS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**csv-merger**](https://github.com/ringmast4r/csv-merger) | `Cross-platform` `Python` `CSV` `Utility` - Merge multipl... | ![](https://img.shields.io/github/stars/ringmast4r/csv-merger?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ad-Tech-Surveillance**](https://github.com/ringmast4r/Ad-Tech-Surveillance) | `GitHub` `Markdown` `ADINT` `Research` - ADINT: a field g... | ![](https://img.shields.io/github/stars/ringmast4r/Ad-Tech-Surveillance?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FLOCK-CSV-EXAMINER**](https://github.com/ringmast4r/FLOCK-CSV-EXAMINER) | `Web` `Python` `CSV` `Wardriving` - Drop wardriving CSVs ... | ![](https://img.shields.io/github/stars/ringmast4r/FLOCK-CSV-EXAMINER?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -244,7 +243,6 @@ pie showData
 | [**Colombia**](https://github.com/ringmast4r/Colombia) | `Web` `HTML` `OSINT` `Archive` - OSINT intelligence on US... | ![](https://img.shields.io/github/stars/ringmast4r/Colombia?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Albania-AI-Diella**](https://github.com/ringmast4r/Albania-AI-Diella) | `Web` `HTML` `OSINT` `Archive` - Albania AI Diella OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/Albania-AI-Diella?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Venezuela**](https://github.com/ringmast4r/Venezuela) | `Web` `HTML` `News` `Archive` - Breaking-news landing pag... | ![](https://img.shields.io/github/stars/ringmast4r/Venezuela?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Follow-The-White-Rabbit-Game-python**](https://github.com/ringmast4r/Follow-The-White-Rabbit-Game-python) | `Terminal` `Python` `Interactive-fiction` `Game` - Python... | ![](https://img.shields.io/github/stars/ringmast4r/Follow-The-White-Rabbit-Game-python?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**leakix**](https://github.com/ringmast4r/leakix) | `CLI` `Python` `OSINT` `Fork` - leakix is ​​a tool create... | ![](https://img.shields.io/github/stars/ringmast4r/leakix?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT**](https://github.com/ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT) | `Terminal` `Go` `Visualization` `Fork` - Terminal UI visu... | ![](https://img.shields.io/github/stars/ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**neofetch**](https://github.com/ringmast4r/neofetch) | `Terminal` `Bash` `System-information` `Fork` - 🖼️ A comm... | ![](https://img.shields.io/github/stars/ringmast4r/neofetch?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -261,19 +259,14 @@ pie showData
 | [**Gods-Eye-Index**](https://github.com/ringmast4r/Gods-Eye-Index) | `Web` `Python` `OSINT` `Reference` - Index of every God's... | ![](https://img.shields.io/github/stars/ringmast4r/Gods-Eye-Index?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Router-Rader**](https://github.com/ringmast4r/Router-Rader) | `Cross-platform` `Python` `Networking` `Monitoring` - Net... | ![](https://img.shields.io/github/stars/ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**APTs**](https://github.com/ringmast4r/APTs) | `GitHub` `Markdown` `Threat-intelligence` `Reference` - A... | ![](https://img.shields.io/github/stars/ringmast4r/APTs?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Consider-The-Consequences-Game**](https://github.com/ringmast4r/Consider-The-Consequences-Game) | `Terminal` `Python` `Interactive-fiction` `Game` - Intera... | ![](https://img.shields.io/github/stars/ringmast4r/Consider-The-Consequences-Game?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**XSS.isCTI**](https://github.com/ringmast4r/XSS.isCTI) | `CLI` `Python` `Threat-intelligence` `Fork` - specialized... | ![](https://img.shields.io/github/stars/ringmast4r/XSS.isCTI?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**LeakBaseCTI**](https://github.com/ringmast4r/LeakBaseCTI) | `CLI` `Python` `Threat-intelligence` `Fork` - specialized... | ![](https://img.shields.io/github/stars/ringmast4r/LeakBaseCTI?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Conky**](https://github.com/ringmast4r/Conky) | `Linux` `Conky` `Widgets` - Collection of Conky configura... | ![](https://img.shields.io/github/stars/ringmast4r/Conky?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Ringmast4rs-Retro-Rom-Revival**](https://github.com/ringmast4r/Ringmast4rs-Retro-Rom-Revival) | `Web` `JavaScript` `PWA` `Emulation` - Browser-based retr... | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4rs-Retro-Rom-Revival?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Follow-The-White-Rabbit-Game-JavaScript**](https://github.com/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript) | `Web` `Java` `JavaScript` `Game` - Follow the White Rabbi... | ![](https://img.shields.io/github/stars/ringmast4r/Follow-The-White-Rabbit-Game-JavaScript?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**CGPS**](https://github.com/ringmast4r/CGPS) | `Embedded` `Arduino` `C++` `Experimental` - Experimental ... | ![](https://img.shields.io/github/stars/ringmast4r/CGPS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | `Embedded` `C++` `E-paper` `Firmware` `Fork` - UI written... | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**agent-city**](https://github.com/ringmast4r/agent-city) | `Three.js` `SQLite` `Python` `Canvas2D` - Claude Code ses... | ![](https://img.shields.io/github/stars/ringmast4r/agent-city?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**ascii-city**](https://github.com/ringmast4r/ascii-city) | `Web` `HTML` `Canvas` `Game` - Walkable first-person Amer... | ![](https://img.shields.io/github/stars/ringmast4r/ascii-city?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**pdf-archive**](https://github.com/ringmast4r/pdf-archive) | `GitHub` `PDF` `Archive` - Personal resource archive | ![](https://img.shields.io/github/stars/ringmast4r/pdf-archive?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**CommoditiesTracker**](https://github.com/ringmast4r/CommoditiesTracker) | `Web` `HTML` `JavaScript` `Finance` - Offline-first commo... | ![](https://img.shields.io/github/stars/ringmast4r/CommoditiesTracker?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**CTC-Game-LIVE-DEMO**](https://github.com/ringmast4r/CTC-Game-LIVE-DEMO) | `Web` `JavaScript` `Interactive-fiction` `Game` - Web-bas... | ![](https://img.shields.io/github/stars/ringmast4r/CTC-Game-LIVE-DEMO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Rainmeter**](https://github.com/ringmast4r/Rainmeter) | `Windows` `Rainmeter` `Widgets` - Collection of Rainmeter... | ![](https://img.shields.io/github/stars/ringmast4r/Rainmeter?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**venezuela-vote-tracking-evidence**](https://github.com/ringmast4r/venezuela-vote-tracking-evidence) | Research - PHP - GraphQL — Retained Chamba Juvenil report... | ![](https://img.shields.io/github/stars/ringmast4r/venezuela-vote-tracking-evidence?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | `Linux` `Wireless` `Monitoring` `Fork` - Github mirror of... | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
