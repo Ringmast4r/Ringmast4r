@@ -2,6 +2,8 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,100:CC0000&height=200&section=header&text=RINGMAST4R&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=35&desc=OSINT%20|%20Security%20Infrastructure%20|%20Mapping%20the%20Internet's%20Backbone&descSize=18&descAlignY=55"/>
 
+Welcome to the Circus Motherfuckers!
+
 [Project website / live view](https://ringmast4r.org/)
 
 
