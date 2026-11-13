@@ -1,0 +1,684 @@
+[
+ {
+  "repo": "crystal-vault",
+  "stars": 167,
+  "lang": "HTML",
+  "desc": "Documenting Venezuela's surveillance infrastructure through their own open APIs. La Bóveda de Cristal - A vault made of glass.",
+  "demo": true,
+  "kind": "window",
+  "media": "media/crystal-vault.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "FLOCK",
+  "stars": 165,
+  "lang": "HTML",
+  "desc": "Surveillance camera network map - 336K+ cameras worldwide with inter-agency data sharing visualization",
+  "demo": true,
+  "kind": "window",
+  "media": "media/FLOCK.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "OUI-Master-Database",
+  "stars": 151,
+  "lang": "JavaScript",
+  "desc": "MAC address manufacturer lookup database combining IEEE, Nmap, Wireshark and HDM Mac-Tracker, with downloadable formats and a browser lookup.",
+  "demo": false,
+  "kind": "emblem",
+  "media": "media/OUI-Master-Database.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "DEATH_STAR",
+  "stars": 127,
+  "lang": "Python",
+  "desc": "Educational cybersecurity tool that visualizes network attacks on a 3D ASCII globe. Real-time firewall log analysis with IP geolocation, threat intelligence, and interactive terminal dashboard. 100% local and defensive.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/DEATH_STAR.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Tower-Hunter",
+  "stars": 99,
+  "lang": "Python",
+  "desc": "Cell tower logger and anomaly detector for Linux mobile devices. Monitors cellular connections, logs tower data with GPS, and detects suspicious activity.",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "sudo apt install modemmanager gpsd …",
+   "sudo apt install sshpass"
+  ],
+  "big": null
+ },
+ {
+  "repo": "Global-Data-Center-Map",
+  "stars": 77,
+  "lang": "",
+  "desc": "ATLAS (All The Locations of All Servers) -- 18,110 data centers across 116 countries and 4,181 operators. Interactive map and downloadable datasets in 12 formats.",
+  "demo": true,
+  "kind": "window",
+  "media": "media/Global-Data-Center-Map.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "ODINT",
+  "stars": 62,
+  "lang": "",
+  "desc": "The Observatory for Digital Infrastructure & Network Transparency",
+  "demo": true,
+  "kind": "emblem",
+  "media": "media/ODINT.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "GNSS",
+  "stars": 55,
+  "lang": "JavaScript",
+  "desc": "Real-time GPS satellite tracker - Educational visualization tool",
+  "demo": true,
+  "kind": "window",
+  "media": "media/GNSS.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Epstein",
+  "stars": 53,
+  "lang": "Python",
+  "desc": "Public-records archive and research tools for the DOJ Epstein files, with document indexes, manifests and visualizations.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Epstein.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "MAC-SPOOFER",
+  "stars": 48,
+  "lang": "Python",
+  "desc": "Windows MAC address tool with a Sin City desktop, 58,972 offline OUI blocks, private and exact-vendor generation, verified adapter changes, recovery records, and native tray controls.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/MAC-SPOOFER.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "FED",
+  "stars": 38,
+  "lang": "",
+  "desc": "The Global Intelligence Rolodex: reference databases of 925+ intelligence entities across 179 countries and 3,500+ cultural centers used as cover.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "925+",
+   "intelligence entities, 179 countries"
+  ]
+ },
+ {
+  "repo": "PathFinder",
+  "stars": 38,
+  "lang": "Go",
+  "desc": "PathFinder - Advanced path traversal and directory enumeration tool",
+  "demo": false,
+  "kind": "window",
+  "media": "media/PathFinder.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "surveillance-capabilities-map",
+  "stars": 27,
+  "lang": "HTML",
+  "desc": "Interactive map of US police surveillance capabilities",
+  "demo": false,
+  "kind": "window",
+  "media": "media/surveillance-capabilities-map.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Huginn-Muninn",
+  "stars": 25,
+  "lang": "Python",
+  "desc": "The ravens bring knowledge - Internet crowdsourced OSINT for device identification",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "RAVENS",
+   "crowdsourced device identification"
+  ]
+ },
+ {
+  "repo": "wardriving-converter",
+  "stars": 21,
+  "lang": "Python",
+  "desc": "Universal wardriving file converter - supports 12+ formats (WiGLE, Kismet, KML), cross-platform, batch processing",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "chmod +x convert.sh",
+   "./convert.sh /path/to/folder"
+  ],
+  "big": null
+ },
+ {
+  "repo": "WiGLE-Vault",
+  "stars": 21,
+  "lang": "Python",
+  "desc": "Download all your WiGLE wardriving data in one command. Simple Python tool for backing up your WiFi survey history.",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "python wigle_vault.py"
+  ],
+  "big": null
+ },
+ {
+  "repo": "Iran",
+  "stars": 20,
+  "lang": "HTML",
+  "desc": "OSINT on Iranian government infrastructure & Hezbollah media networks - private IP leaks, VPN endpoints, embassy mapping, hosting analysis",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "IRAN",
+   "government infrastructure and media networks"
+  ]
+ },
+ {
+  "repo": "Surveillance-Industry",
+  "stars": 20,
+  "lang": "",
+  "desc": "Country-by-country dossiers on the global surveillance industry, spyware vendors, state agencies and Palantir.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Surveillance-Industry.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Cuba",
+  "stars": 19,
+  "lang": "HTML",
+  "desc": "OSINT Probe into Cuba",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "CUBA",
+   "an OSINT probe"
+  ]
+ },
+ {
+  "repo": "DEAD-MANS-TRIGGER",
+  "stars": 19,
+  "lang": "HTML",
+  "desc": "Educational dead-man-switch demonstration with a Node.js server, check-in timers and optional email delivery. See the documented security limitations.",
+  "demo": true,
+  "kind": "window",
+  "media": "media/DEAD-MANS-TRIGGER.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "NAZIS",
+  "stars": 17,
+  "lang": "HTML",
+  "desc": "We're in the exposin' Nazis business. And cousin, business is a-boomin'.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/NAZIS.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "csv-merger",
+  "stars": 15,
+  "lang": "Python",
+  "desc": "Merge multiple CSV files into one mega CSV. Simple, fast, offline. Handles huge files with smart header detection and batch processing.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [
+   "chmod +x convert.sh",
+   "./convert.sh /path/to/csvs"
+  ],
+  "big": [
+   "N > 1",
+   "CSV files into one mega CSV"
+  ]
+ },
+ {
+  "repo": "radio-venezuela",
+  "stars": 15,
+  "lang": "HTML",
+  "desc": "Military & Regime Communications Intelligence — 130+ HF frequencies, dead satellite, five-country spy pipeline",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "130+",
+   "HF frequencies"
+  ]
+ },
+ {
+  "repo": "vecert-exposed",
+  "stars": 15,
+  "lang": "HTML",
+  "desc": "OSINT investigation into VECERT Security Labs USA LLC — a Florida LLC scraping cybercrime forums and selling data through an unauthenticated API",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "VECERT",
+   "a Florida LLC, investigated"
+  ]
+ },
+ {
+  "repo": "Ad-Tech-Surveillance",
+  "stars": 13,
+  "lang": "",
+  "desc": "ADINT: a field guide to ad-tech surveillance. How advertising data (MAID, RTB bidstream, SDK location) becomes warrantless intelligence.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Ad-Tech-Surveillance.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "FLOCK-CSV-EXAMINER",
+  "stars": 13,
+  "lang": "Python",
+  "desc": "Drop wardriving CSVs and find Flock Safety cameras. Recursive parsing, parallel processing, and an interactive map with clustered installation detection.",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "python server.py"
+  ],
+  "big": null
+ },
+ {
+  "repo": "higole",
+  "stars": 11,
+  "lang": "",
+  "desc": "Community support resource for Higole Gole 1 Pro 5.5\" Industrial Tablet Mini PC. Hardware specs, Windows/Linux setup guides, WiFi drivers, temperature management, and compatibility documentation.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "5.5\"",
+   "industrial tablet mini PC"
+  ]
+ },
+ {
+  "repo": "OSINT-VISUALIZER",
+  "stars": 11,
+  "lang": "HTML",
+  "desc": "Mock OSINT visualization tool demo with client-side search functionality. Features interactive radial charts, source filtering, confidence metrics, and grouped result cards. Fully synthetic data for demonstration purposes.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "OSINT",
+   "radial charts, client-side search"
+  ]
+ },
+ {
+  "repo": "PROJECT-159",
+  "stars": 11,
+  "lang": "HTML",
+  "desc": "Biblical encyclopedia with 159 books - cross-reference analysis tool",
+  "demo": false,
+  "kind": "window",
+  "media": "media/PROJECT-159.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "The-Art-of-War-CLI",
+  "stars": 11,
+  "lang": "JavaScript",
+  "desc": "An interactive CLI app to read The Art of War with crimson brushstroke theme and dynamic splash animations",
+  "demo": false,
+  "kind": "window",
+  "media": "media/The-Art-of-War-CLI.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Colombia",
+  "stars": 10,
+  "lang": "HTML",
+  "desc": "OSINT intelligence on US-sanctioned Colombian President Gustavo Petro - infrastructure mapping, M-19 history, ArcGIS data dumps",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "PETRO",
+   "infrastructure mapping, M-19 history"
+  ]
+ },
+ {
+  "repo": "fallen-repos",
+  "stars": 9,
+  "lang": "",
+  "desc": "Preservation archive of GitHub repositories lost to DMCA, bans, deletions, and shadow bans",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [
+   "git add -A && git commit -m \"Archive: …"
+  ],
+  "big": [
+   "DMCA",
+   "repos preserved after takedowns"
+  ]
+ },
+ {
+  "repo": "Albania-AI-Diella",
+  "stars": 8,
+  "lang": "HTML",
+  "desc": "Albania AI Diella OSINT archive: corruption arrests, Iranian cyberattacks, 1.5M+ citizen data leaks, 54k+ documents. Download:",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "python scripts/verify-integrity.py",
+   "python scripts/manifest-builder.py"
+  ],
+  "big": null
+ },
+ {
+  "repo": "Venezuela",
+  "stars": 8,
+  "lang": "HTML",
+  "desc": "Breaking-news landing page covering the January 2026 US strikes on Venezuela, with sourced updates. Static site on GitHub Pages.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "2026",
+   "US strikes on Venezuela"
+  ]
+ },
+ {
+  "repo": "FRANKENSTEIN",
+  "stars": 7,
+  "lang": "Go",
+  "desc": "Dual-phenomenology site checker — DNS + HTTP/S probing, 50 workers, TLS cert analysis, retry pass",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "git clone https://github.com/Ringmast4r/FRANKE …",
+   "cd FRANKENSTEIN/src",
+   "go build -o frankenstein ."
+  ],
+  "big": null
+ },
+ {
+  "repo": "Gods-Eye-Index",
+  "stars": 7,
+  "lang": "Python",
+  "desc": "Index of every God's Eye / World Monitor style live world-map intel dashboard on GitHub, with live stars and the feeds they share",
+  "demo": false,
+  "kind": "emblem",
+  "media": "media/Gods-Eye-Index.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Ringmast4r-TV",
+  "stars": 7,
+  "lang": "HTML",
+  "desc": "Run your own 24/7 cable TV station from your media library: themed channels, a Prevue-style guide, and a CRT-green web player. Built on ErsatzTV.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Ringmast4r-TV.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "website-lists",
+  "stars": 7,
+  "lang": "",
+  "desc": "Categorized website and domain reference lists for OSINT research.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "LISTS",
+   "categorized domains for OSINT"
+  ]
+ },
+ {
+  "repo": "The-Holy-Bible",
+  "stars": 6,
+  "lang": "JavaScript",
+  "desc": "Cross-reference analysis and visualization tools for the Bible, built on the Treasury of Scripture Knowledge: 344,799 verse references and 190,522 connections across 4 translations, with D3.js visualizers.",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "cd \"DESKTOP APP\"",
+   "pip install -r requirements.txt",
+   "python visualizer_app.py"
+  ],
+  "big": null
+ },
+ {
+  "repo": "Library-of-Congress-Power-Search",
+  "stars": 5,
+  "lang": "JavaScript",
+  "desc": "Desktop search tool for the Library of Congress digital collections, built for faster, more visual browsing than the default web interface. Not affiliated with the LoC.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Library-of-Congress-Power-Search.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "APTs",
+  "stars": 4,
+  "lang": "",
+  "desc": "Adversary emulation reference database for advanced persistent threat research.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "APT",
+   "adversary emulation reference"
+  ]
+ },
+ {
+  "repo": "Router-Rader",
+  "stars": 4,
+  "lang": "Python",
+  "desc": "Network monitor for Xfinity routers: live connected-device list, RSSI signal strength, MAC vendor lookup (86K+ manufacturers), and online/offline tracking.",
+  "demo": false,
+  "kind": "terminal",
+  "media": "",
+  "term": [
+   "git clone https://github.com/Ringmast4r/Router …",
+   "cd Router-Rader",
+   "python router_radar.py"
+  ],
+  "big": null
+ },
+ {
+  "repo": "CGPS",
+  "stars": 3,
+  "lang": "C++",
+  "desc": "Experimental Arduino/C++ sketches for color displays, title output and RGB processing.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "C++",
+   "sketches for color displays"
+  ]
+ },
+ {
+  "repo": "Conky",
+  "stars": 3,
+  "lang": "",
+  "desc": "Collection of Conky configurations for Linux desktop widgets: system, weather, and network monitoring. Windows counterpart: Ringmast4r/Rainmeter",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "CONKY",
+   "Linux desktop widgets"
+  ]
+ },
+ {
+  "repo": "NotClaw",
+  "stars": 3,
+  "lang": "",
+  "desc": "Private workspace: running Claude Code locally via claw-code + Ollama on our own rigs. Single-GPU safety, multi-GPU profile, Ollama env cheat-sheet, case studies.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [
+   "curl -fsSL https://ollama.com/install.sh -o …",
+   "sudo bash /tmp/ollama-install.sh"
+  ],
+  "big": [
+   "LOCAL",
+   "Claude Code on our own rigs"
+  ]
+ },
+ {
+  "repo": "venezuela-vote-tracking-evidence",
+  "stars": 3,
+  "lang": "PHP",
+  "desc": "Research | PHP | GraphQL — Retained Chamba Juvenil reporting source and PSUV schemas, with traceable analysis and SHA-256 verification.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/venezuela-vote-tracking-evidence.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "agent-city",
+  "stars": 2,
+  "lang": "",
+  "desc": "Claude Code sessions drawn as an isometric city: projects become districts, files become buildings, tool calls become citizens.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "CITY",
+   "Claude Code sessions as an isometric city"
+  ]
+ },
+ {
+  "repo": "CommoditiesTracker",
+  "stars": 2,
+  "lang": "HTML",
+  "desc": "Offline-first commodity price tracker in a single HTML file. 65+ commodities across 8 categories with instant search and zero dependencies.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "65+",
+   "commodities in one HTML file"
+  ]
+ },
+ {
+  "repo": "Lively-Wallpapers",
+  "stars": 2,
+  "lang": "HTML",
+  "desc": "Live wallpapers for Lively Wallpaper on Windows: seven of our own, plain HTML and WebGL pages that run behind your desktop icons with their own settings, plus 85 community picks, each credited, with 57 kept here under their authors' own licences.",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Lively-Wallpapers.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "Rainmeter",
+  "stars": 2,
+  "lang": "Lua",
+  "desc": "Collection of Rainmeter skins for Windows: live desktop widgets for system, network, weather, and media. Linux counterpart: Ringmast4r/Conky",
+  "demo": false,
+  "kind": "window",
+  "media": "media/Rainmeter.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "HTML-Viewers",
+  "stars": 1,
+  "lang": "HTML",
+  "desc": "Six single-file offline HTML viewers for PCAP, Markdown, CSV, DOCX and XLSX. Double-click, drop a file in, read it. No server, no install, nothing uploaded.",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [],
+  "big": [
+   "6",
+   "offline viewers, one HTML file each"
+  ]
+ },
+ {
+  "repo": "OCR-Master-Guide",
+  "stars": 1,
+  "lang": "Python",
+  "desc": "Every OCR engine on Windows and Linux: Tesseract to VLMs, pairing recipes, bench scripts",
+  "demo": false,
+  "kind": "emblem",
+  "media": "media/OCR-Master-Guide.jpg",
+  "term": [],
+  "big": null
+ },
+ {
+  "repo": "viewer-website",
+  "stars": 1,
+  "lang": "HTML",
+  "desc": "Professional artist website for VIEWER - Drum and Bass producer from Guanajuato, Mexico",
+  "demo": false,
+  "kind": "headline",
+  "media": "",
+  "term": [
+   "cd viewer-website",
+   "python -m http.server 8000"
+  ],
+  "big": [
+   "DnB",
+   "artist site for VIEWER, Guanajuato"
+  ]
+ }
+]

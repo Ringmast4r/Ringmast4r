@@ -1,0 +1,42 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<title>Ringmast4r marquee</title>
+<!-- The circus marquee over the acts. capture_tiles.py sets the act count, then steps window.frame(i)
+     through the chase (every third bulb lit, moving one bulb per frame) into an animated WebP. -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Cinzel+Decorative:wght@700&family=DM+Mono:wght@500&display=block" rel="stylesheet">
+<style>
+  html, body { margin: 0; background: transparent; }
+  .sign { position: relative; width: 1200px; height: 250px; border-radius: 28px; overflow: hidden;
+    background: radial-gradient(600px 200px at 50% 50%, rgba(204,0,0,.45), transparent 70%), linear-gradient(180deg, #1a0707, #090303);
+    box-shadow: inset 0 0 0 3px #b8872e, inset 0 0 0 9px #2a0b0b, inset 0 0 0 11px rgba(184,135,46,.6); }
+  .bulb { position: absolute; width: 12px; height: 12px; margin: -6px 0 0 -6px; border-radius: 50%; background: #4a2a1a; box-shadow: inset 0 -2px 3px rgba(0,0,0,.6); }
+  .bulb.on { background: #fff4d8; box-shadow: 0 0 10px 3px rgba(255,200,120,.9), 0 0 22px 6px rgba(255,150,60,.45); }
+  .txt { position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; }
+  .pre { font: 500 14px/1 'DM Mono', monospace; letter-spacing: .5em; text-transform: uppercase; color: #e7c38a; }
+  .big { margin: 14px 0 12px; font: 700 76px/1 'Cinzel Decorative', serif; letter-spacing: .06em; color: #fff;
+    text-shadow: 0 0 24px rgba(255,40,40,.8), 0 3px 0 #6d0000; }
+  .big b { color: #ff2a2a; font-weight: 700; }
+  .post { font: 500 13px/1 'DM Mono', monospace; letter-spacing: .3em; text-transform: uppercase; color: #d8b6a4; }
+</style>
+</head>
+<body>
+<div class="sign" id="sign">
+  <div class="txt"><div class="pre">ringmast4r presents</div><div class="big"><b id="n">53</b> ACTS</div><div class="post">every project its own act · click any act to enter</div></div>
+</div>
+<script>
+  const sign = document.getElementById('sign'), bulbs = [];
+  const W = 1200, H = 250, m = 26, step = 34;
+  const place = (x, y) => { const b = document.createElement('i'); b.className = 'bulb'; b.style.left = x + 'px'; b.style.top = y + 'px'; sign.appendChild(b); bulbs.push(b); };
+  for (let x = m; x < W - m; x += step) place(x, m);                 // round the border, clockwise
+  for (let y = m; y < H - m; y += step) place(W - m, y);
+  for (let x = W - m; x > m; x -= step) place(x, H - m);
+  for (let y = H - m; y > m; y -= step) place(m, y);
+  window.setCount = n => { document.getElementById('n').textContent = n; };
+  window.frame = i => bulbs.forEach((b, k) => b.classList.toggle('on', (k + i) % 3 === 0));
+  frame(0);
+</script>
+</body>
+</html>

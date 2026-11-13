@@ -1,0 +1,4 @@
+source/frames/
+source/*_log.txt
+source/*_err.txt
+__pycache__/
