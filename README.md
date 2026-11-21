@@ -212,7 +212,7 @@ ringmast4r@github:~$ cat profile.txt
 
 <div align="center">
 
-### All 70 Public Repositories
+### All 68 Public Repositories
 
 | Repository | Description | Stars |
 |:-----------|:------------|:-----:|
@@ -223,7 +223,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**Tower-Hunter**](https://github.com/ringmast4r/Tower-Hunter) | Cell tower logger and anomaly detector for Linux mobile d... | ![](https://img.shields.io/github/stars/ringmast4r/Tower-Hunter?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Global-Data-Center-Map**](https://github.com/ringmast4r/Global-Data-Center-Map) | ATLAS (All The Locations of All Servers) -- 18,110 data c... | ![](https://img.shields.io/github/stars/ringmast4r/Global-Data-Center-Map?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**ODINT**](https://github.com/ringmast4r/ODINT) | The Observatory for Digital Infrastructure & Network Tran... | ![](https://img.shields.io/github/stars/ringmast4r/ODINT?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**GNSS**](https://github.com/ringmast4r/GNSS) | Real-time GPS satellite tracker - Educational visualizati... | ![](https://img.shields.io/github/stars/ringmast4r/GNSS?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**GNSS**](https://github.com/ringmast4r/GNSS) | Which GPS satellites are over you right now: live sky plo... | ![](https://img.shields.io/github/stars/ringmast4r/GNSS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Epstein**](https://github.com/ringmast4r/Epstein) | Public-records archive and research tools for the DOJ Eps... | ![](https://img.shields.io/github/stars/ringmast4r/Epstein?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**MAC-SPOOFER**](https://github.com/ringmast4r/MAC-SPOOFER) | Windows MAC address tool with a Sin City desktop, 58,972 ... | ![](https://img.shields.io/github/stars/ringmast4r/MAC-SPOOFER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4r**](https://github.com/ringmast4r/Ringmast4r) | Welcome to the Circus Motherfuckers! https://ringmast4r.org/ | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -241,24 +241,22 @@ ringmast4r@github:~$ cat profile.txt
 | [**csv-merger**](https://github.com/ringmast4r/csv-merger) | Merge multiple CSV files into one mega CSV. Simple, fast,... | ![](https://img.shields.io/github/stars/ringmast4r/csv-merger?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**radio-venezuela**](https://github.com/ringmast4r/radio-venezuela) | Military & Regime Communications Intelligence — 130+ HF f... | ![](https://img.shields.io/github/stars/ringmast4r/radio-venezuela?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**vecert-exposed**](https://github.com/ringmast4r/vecert-exposed) | OSINT investigation into VECERT Security Labs USA LLC — a... | ![](https://img.shields.io/github/stars/ringmast4r/vecert-exposed?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**FLOCK-CSV-EXAMINER**](https://github.com/ringmast4r/FLOCK-CSV-EXAMINER) | Drop wardriving CSVs and find Flock Safety cameras. Recur... | ![](https://img.shields.io/github/stars/ringmast4r/FLOCK-CSV-EXAMINER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ad-Tech-Surveillance**](https://github.com/ringmast4r/Ad-Tech-Surveillance) | ADINT: a field guide to ad-tech surveillance. How adverti... | ![](https://img.shields.io/github/stars/ringmast4r/Ad-Tech-Surveillance?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**PROJECT-159**](https://github.com/ringmast4r/PROJECT-159) | Biblical encyclopedia with 159 books - cross-reference an... | ![](https://img.shields.io/github/stars/ringmast4r/PROJECT-159?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**FLOCK-CSV-EXAMINER**](https://github.com/ringmast4r/FLOCK-CSV-EXAMINER) | Drop wardriving CSVs and find Flock Safety cameras. Recur... | ![](https://img.shields.io/github/stars/ringmast4r/FLOCK-CSV-EXAMINER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**The-Art-of-War-CLI**](https://github.com/ringmast4r/The-Art-of-War-CLI) | An interactive CLI app to read The Art of War with crimso... | ![](https://img.shields.io/github/stars/ringmast4r/The-Art-of-War-CLI?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**OSINT-VISUALIZER**](https://github.com/ringmast4r/OSINT-VISUALIZER) | Mock OSINT visualization tool demo with client-side searc... | ![](https://img.shields.io/github/stars/ringmast4r/OSINT-VISUALIZER?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**higole**](https://github.com/ringmast4r/higole) | Community support resource for Higole Gole 1 Pro 5.5" Ind... | ![](https://img.shields.io/github/stars/ringmast4r/higole?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Colombia**](https://github.com/ringmast4r/Colombia) | OSINT intelligence on US-sanctioned Colombian President G... | ![](https://img.shields.io/github/stars/ringmast4r/Colombia?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**fallen-repos**](https://github.com/ringmast4r/fallen-repos) | Preservation archive of GitHub repositories lost to DMCA,... | ![](https://img.shields.io/github/stars/ringmast4r/fallen-repos?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Gods-Eye-Index**](https://github.com/ringmast4r/Gods-Eye-Index) | Index of every God's Eye / World Monitor style live world... | ![](https://img.shields.io/github/stars/ringmast4r/Gods-Eye-Index?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Albania-AI-Diella**](https://github.com/ringmast4r/Albania-AI-Diella) | Albania AI Diella OSINT archive: corruption arrests, Iran... | ![](https://img.shields.io/github/stars/ringmast4r/Albania-AI-Diella?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Venezuela**](https://github.com/ringmast4r/Venezuela) | Breaking-news landing page covering the January 2026 US s... | ![](https://img.shields.io/github/stars/ringmast4r/Venezuela?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Ringmast4r-TV**](https://github.com/ringmast4r/Ringmast4r-TV) | Run your own 24/7 cable TV station from your media librar... | ![](https://img.shields.io/github/stars/ringmast4r/Ringmast4r-TV?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Gods-Eye-Index**](https://github.com/ringmast4r/Gods-Eye-Index) | Index of every God's Eye / World Monitor style live world... | ![](https://img.shields.io/github/stars/ringmast4r/Gods-Eye-Index?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**website-lists**](https://github.com/ringmast4r/website-lists) | Categorized website and domain reference lists for OSINT ... | ![](https://img.shields.io/github/stars/ringmast4r/website-lists?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FRANKENSTEIN**](https://github.com/ringmast4r/FRANKENSTEIN) | Dual-phenomenology site checker — DNS + HTTP/S probing, 5... | ![](https://img.shields.io/github/stars/ringmast4r/FRANKENSTEIN?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**leakix**](https://github.com/ringmast4r/leakix) | leakix is ​​a tool created by leakix.com that helps cyber... | ![](https://img.shields.io/github/stars/ringmast4r/leakix?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT**](https://github.com/ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT) | Terminal UI visualization for SecKC Modern Honey Network ... | ![](https://img.shields.io/github/stars/ringmast4r/FORKED-SecKC-MHN-Globe--UPGRADE-EXPERIMENT?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**neofetch**](https://github.com/ringmast4r/neofetch) | 🖼️ A command-line system information tool written in bash... | ![](https://img.shields.io/github/stars/ringmast4r/neofetch?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**The-Holy-Bible**](https://github.com/ringmast4r/The-Holy-Bible) | Cross-reference analysis and visualization tools for the ... | ![](https://img.shields.io/github/stars/ringmast4r/The-Holy-Bible?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Analyzer_forums**](https://github.com/ringmast4r/Analyzer_forums) | consumes the largest collection of forum content speciali... | ![](https://img.shields.io/github/stars/ringmast4r/Analyzer_forums?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Library-of-Congress-Power-Search**](https://github.com/ringmast4r/Library-of-Congress-Power-Search) | Desktop search tool for the Library of Congress digital c... | ![](https://img.shields.io/github/stars/ringmast4r/Library-of-Congress-Power-Search?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Intelx_CLI_Free_Version**](https://github.com/ringmast4r/Intelx_CLI_Free_Version) | This script is functional for “academic and free” users. ... | ![](https://img.shields.io/github/stars/ringmast4r/Intelx_CLI_Free_Version?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -267,6 +265,7 @@ ringmast4r@github:~$ cat profile.txt
 | [**t5-epaper-meshtastic**](https://github.com/ringmast4r/t5-epaper-meshtastic) | The official firmware for Meshtastic, an open-source, off... | ![](https://img.shields.io/github/stars/ringmast4r/t5-epaper-meshtastic?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**Router-Rader**](https://github.com/ringmast4r/Router-Rader) | Network monitor for Xfinity routers: live connected-devic... | ![](https://img.shields.io/github/stars/ringmast4r/Router-Rader?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**APTs**](https://github.com/ringmast4r/APTs) | Adversary emulation reference database for advanced persi... | ![](https://img.shields.io/github/stars/ringmast4r/APTs?style=flat-square&color=CC0000&label=%E2%98%85) |
+| [**Lively-Wallpapers**](https://github.com/ringmast4r/Lively-Wallpapers) | Live wallpapers for Lively Wallpaper on Windows: seven of... | ![](https://img.shields.io/github/stars/ringmast4r/Lively-Wallpapers?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**venezuela-vote-tracking-evidence**](https://github.com/ringmast4r/venezuela-vote-tracking-evidence) | Research - PHP - GraphQL — Retained Chamba Juvenil report... | ![](https://img.shields.io/github/stars/ringmast4r/venezuela-vote-tracking-evidence?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**NotClaw**](https://github.com/ringmast4r/NotClaw) | Private workspace: running Claude Code locally via claw-c... | ![](https://img.shields.io/github/stars/ringmast4r/NotClaw?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**XSS.isCTI**](https://github.com/ringmast4r/XSS.isCTI) | specialized investigative framework to investigate cases ... | ![](https://img.shields.io/github/stars/ringmast4r/XSS.isCTI?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -274,7 +273,6 @@ ringmast4r@github:~$ cat profile.txt
 | [**Conky**](https://github.com/ringmast4r/Conky) | Collection of Conky configurations for Linux desktop widg... | ![](https://img.shields.io/github/stars/ringmast4r/Conky?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**CGPS**](https://github.com/ringmast4r/CGPS) | Experimental Arduino/C++ sketches for color displays, tit... | ![](https://img.shields.io/github/stars/ringmast4r/CGPS?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**kismet**](https://github.com/ringmast4r/kismet) | Github mirror of official Kismet repository | ![](https://img.shields.io/github/stars/ringmast4r/kismet?style=flat-square&color=CC0000&label=%E2%98%85) |
-| [**Lively-Wallpapers**](https://github.com/ringmast4r/Lively-Wallpapers) | Live wallpapers for Lively Wallpaper on Windows: seven of... | ![](https://img.shields.io/github/stars/ringmast4r/Lively-Wallpapers?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**T5S3-4.7-e-paper-PRO**](https://github.com/ringmast4r/T5S3-4.7-e-paper-PRO) | UI written for the LilyGo-EPD47-S3 project | ![](https://img.shields.io/github/stars/ringmast4r/T5S3-4.7-e-paper-PRO?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**agent-city**](https://github.com/ringmast4r/agent-city) | Claude Code sessions drawn as an isometric city: projects... | ![](https://img.shields.io/github/stars/ringmast4r/agent-city?style=flat-square&color=CC0000&label=%E2%98%85) |
 | [**CommoditiesTracker**](https://github.com/ringmast4r/CommoditiesTracker) | Offline-first commodity price tracker in a single HTML fi... | ![](https://img.shields.io/github/stars/ringmast4r/CommoditiesTracker?style=flat-square&color=CC0000&label=%E2%98%85) |
@@ -303,8 +301,8 @@ ringmast4r@github:~$ cat profile.txt
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Logos](https://img.shields.io/badge/Logos-555555?style=for-the-badge&logoColor=white)
@@ -329,6 +327,7 @@ ringmast4r@github:~$ cat profile.txt
 ![VBScript](https://img.shields.io/badge/VBScript-555555?style=for-the-badge&logoColor=white)
 ![Emacs Lisp](https://img.shields.io/badge/Emacs%20Lisp-555555?style=for-the-badge&logoColor=white)
 ![Linker Script](https://img.shields.io/badge/Linker%20Script-555555?style=for-the-badge&logoColor=white)
+![Vim Snippet](https://img.shields.io/badge/Vim%20Snippet-555555?style=for-the-badge&logoColor=white)
 ![Pawn](https://img.shields.io/badge/Pawn-555555?style=for-the-badge&logoColor=white)
 <!-- LANGUAGES_END -->
 
