@@ -404,7 +404,7 @@ xychart-beta
 
 ### Koi Pond
 
-<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/koi.gif" width="100%" alt="Ringmast4r's koi: grown from every contribution, colored by languages, redrawn every night by git-koi"></a>
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/koi.gif" width="512" alt="Ringmast4r's koi: grown from every contribution, colored by languages, redrawn every night by git-koi"></a>
 
 </div>
 

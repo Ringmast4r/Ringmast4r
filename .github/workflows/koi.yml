@@ -1,6 +1,8 @@
 # Git koi (github.com/yalongwastaken/git-koi): a pixel-art koi drawn from
 # Ringmast4r's public activity. Contributions grow it, languages color it,
 # streaks mark it. Redrawn every night; README shows koi/koi.gif.
+# Square 256x256 pond (512 px GIF). The wide-pond inputs (size, scale) are
+# only on git-koi's main branch; add them once a release after v1.0.2 has them.
 name: Koi
 
 on:
@@ -24,8 +26,6 @@ jobs:
       - uses: yalongwastaken/git-koi@v1
         with:
           body: black
-          size: 768x256
-          scale: 1
           output-dir: koi
       - name: Commit the koi if it changed
         shell: bash
