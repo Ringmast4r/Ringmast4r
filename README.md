@@ -402,6 +402,10 @@ xychart-beta
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/output/github-contribution-grid-snake-dark.svg" />
 </picture>
 
+### Koi Pond
+
+<a href="https://github.com/yalongwastaken/git-koi"><img src="koi/koi.gif" width="100%" alt="Ringmast4r's koi: grown from every contribution, colored by languages, redrawn every night by git-koi"></a>
+
 </div>
 
 ---

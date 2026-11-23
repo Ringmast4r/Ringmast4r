@@ -1,0 +1,43 @@
+# Git koi (github.com/yalongwastaken/git-koi): a pixel-art koi drawn from
+# Ringmast4r's public activity. Contributions grow it, languages color it,
+# streaks mark it. Redrawn every night; README shows koi/koi.gif.
+name: Koi
+
+on:
+  schedule:
+    # Just after midnight UTC, so the koi shows the day that just ended.
+    - cron: "20 0 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/koi.yml]
+
+permissions:
+  contents: write
+
+concurrency: koi
+
+jobs:
+  koi:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v7
+      - uses: yalongwastaken/git-koi@v1
+        with:
+          body: black
+          size: 768x256
+          scale: 1
+          output-dir: koi
+      - name: Commit the koi if it changed
+        shell: bash
+        run: |
+          git add koi/koi.gif
+          if git diff --cached --quiet; then
+            echo "The koi is unchanged; nothing to commit."
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit --quiet --message "koi: draw the day's koi"
+          # The README bots push to main too; take their commits first.
+          git pull --rebase --quiet
+          git push --quiet
