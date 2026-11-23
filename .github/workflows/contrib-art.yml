@@ -1,0 +1,62 @@
+# Nightly contribution art for the README, published to the `art` branch.
+# That branch is replaced on every run (no history), the same way the snake's
+# `output` branch works, so the big animated SVGs never pile up in git history.
+#   - 3D contribution calendar (yoshi389111/github-profile-3d-contrib):
+#     git blocks, night rainbow, night view, night green
+#   - Contribution defrag (maximbilan/defrag-contributions)
+#   - Arcade games (abozanona/pacman-contribution-graph):
+#     Tetris, Minesweeper, Bomberman, Galaga, Pac-Man (light + dark)
+#   - Koi aquarium (reginaldalfret/git-koi-aquarium)
+# README shows them from raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/...
+name: Contribution art
+
+on:
+  schedule:
+    - cron: "40 0 * * *"
+  workflow_dispatch:
+  push:
+    paths: [.github/workflows/contrib-art.yml]
+
+permissions:
+  contents: write
+
+concurrency: contrib-art
+
+jobs:
+  draw:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: yoshi389111/github-profile-3d-contrib@v0.9.3
+        env:
+          GITHUB_TOKEN: ${{ github.token }}
+          USERNAME: Ringmast4r
+      - uses: maximbilan/defrag-contributions@v1
+        with:
+          github_user_name: Ringmast4r
+          output_path: art/defrag.svg
+      - uses: abozanona/pacman-contribution-graph@main
+        with:
+          github_user_name: Ringmast4r
+          games: tetris,minesweeper,bomberman,galaga,pacman
+      - uses: reginaldalfret/git-koi-aquarium@v1.2.0
+        with:
+          login: Ringmast4r
+          body: aquarium
+          output-dir: _aquarium
+      - name: Gather the art
+        shell: bash
+        run: |
+          for s in gitblock night-rainbow night-view night-green; do
+            cp "profile-3d-contrib/profile-$s.svg" "art/3d-$s.svg"
+          done
+          cp dist/*-contribution-graph*.svg art/
+          cp _aquarium/aquarium.svg art/koi-aquarium.svg
+          ls -la art
+      - uses: crazy-max/ghaction-github-pages@v4
+        with:
+          target_branch: art
+          build_dir: art
+          commit_message: "contribution art: redraw"
+        env:
+          GITHUB_TOKEN: ${{ github.token }}

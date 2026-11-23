@@ -406,6 +406,36 @@ xychart-beta
 
 <a href="https://github.com/yalongwastaken/git-koi"><img src="koi/koi.gif" width="512" alt="Ringmast4r's koi: grown from every contribution, colored by languages, redrawn every night by git-koi"></a>
 
+### Koi Aquarium
+
+<a href="https://github.com/reginaldalfret/git-koi-aquarium"><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/koi-aquarium.svg" width="100%" alt="A school of koi drawn from every contribution, redrawn every night"></a>
+
+### 3D Contribution Calendar
+
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/3d-gitblock.svg" width="100%" alt="3D contribution calendar: git blocks"></a>
+
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/3d-night-rainbow.svg" width="100%" alt="3D contribution calendar: night rainbow"></a>
+
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/3d-night-view.svg" width="100%" alt="3D contribution calendar: night view"></a>
+
+<a href="https://github.com/yoshi389111/github-profile-3d-contrib"><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/3d-night-green.svg" width="100%" alt="3D contribution calendar: night green"></a>
+
+### Contribution Defrag
+
+<a href="https://github.com/maximbilan/defrag-contributions"><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/defrag.svg" width="100%" alt="Contribution graph as a retro disk defragmenter, redrawn every night"></a>
+
+### Contribution Arcade
+
+<a href="https://github.com/abozanona/pacman-contribution-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/tetris-contribution-graph-dark.svg" /><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/tetris-contribution-graph.svg" width="100%" alt="Tetris played on the contribution graph" /></picture></a>
+
+<a href="https://github.com/abozanona/pacman-contribution-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/minesweeper-contribution-graph-dark.svg" /><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/minesweeper-contribution-graph.svg" width="100%" alt="Minesweeper played on the contribution graph" /></picture></a>
+
+<a href="https://github.com/abozanona/pacman-contribution-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/bomberman-contribution-graph-dark.svg" /><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/bomberman-contribution-graph.svg" width="100%" alt="Bomberman played on the contribution graph" /></picture></a>
+
+<a href="https://github.com/abozanona/pacman-contribution-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/galaga-contribution-graph-dark.svg" /><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/galaga-contribution-graph.svg" width="100%" alt="Galaga played on the contribution graph" /></picture></a>
+
+<a href="https://github.com/abozanona/pacman-contribution-graph"><picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/pacman-contribution-graph-dark.svg" /><img src="https://raw.githubusercontent.com/Ringmast4r/Ringmast4r/art/pacman-contribution-graph.svg" width="100%" alt="Pac-Man played on the contribution graph" /></picture></a>
+
 </div>
 
 ---
